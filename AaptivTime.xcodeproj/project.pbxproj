@@ -9,9 +9,24 @@
 /* Begin PBXBuildFile section */
 		38BB3992D7A0267EB5DFD552 /* Pods_AaptivTime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 357D10781A175D1610FD3127 /* Pods_AaptivTime.framework */; };
 		9D2A64C17FD0445DB15429E5 /* Pods_AaptivTimeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C91A3704F06B4042AE5A8D /* Pods_AaptivTimeUITests.framework */; };
+		AF13FDA0202D4F940035AE6F /* ATArticlesListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FD9F202D4F940035AE6F /* ATArticlesListViewModel.swift */; };
+		AF13FDA2202D50E00035AE6F /* ATCoreDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA1202D50E00035AE6F /* ATCoreDataService.swift */; };
+		AF13FDA9202DF6170035AE6F /* ArticleItem+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */; };
+		AF13FDAA202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */; };
+		AF13FDAC202DF66C0035AE6F /* NYTimeArticleItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */; };
+		AF449F77202F65C4006ACA42 /* ATAppFlowCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */; };
+		AF449F7A202F73BC006ACA42 /* ATArticlesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */; };
+		AF449F7B202F73BC006ACA42 /* ATArticlesListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */; };
+		AF449F7D202F775D006ACA42 /* ATArticleListDataSourceable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F7C202F775D006ACA42 /* ATArticleListDataSourceable.swift */; };
+		AF449F80202F7A7B006ACA42 /* ATArticleListItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F7E202F7A7B006ACA42 /* ATArticleListItemCell.swift */; };
+		AF449F81202F7A7B006ACA42 /* ATArticleListItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF449F7F202F7A7B006ACA42 /* ATArticleListItemCell.xib */; };
+		AF449F83202F7AC2006ACA42 /* ATGlobal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F82202F7AC2006ACA42 /* ATGlobal.swift */; };
+		AF449F85202F7DEE006ACA42 /* ATDynamicType.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F84202F7DEE006ACA42 /* ATDynamicType.swift */; };
+		AF449F87202F7FBB006ACA42 /* ATSectionScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F86202F7FBB006ACA42 /* ATSectionScrollView.swift */; };
+		AF449F89202F920E006ACA42 /* ATArticleItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F88202F920E006ACA42 /* ATArticleItemViewModel.swift */; };
+		AF449F8B202F9B9C006ACA42 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8A202F9B9C006ACA42 /* DateExtension.swift */; };
 		AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C0202AB91B0056D66E /* AppDelegate.swift */; };
 		AF4607C3202AB91B0056D66E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C2202AB91B0056D66E /* ViewController.swift */; };
-		AF4607C6202AB91B0056D66E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF4607C4202AB91B0056D66E /* Main.storyboard */; };
 		AF4607C9202AB91B0056D66E /* AaptivTime.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C7202AB91B0056D66E /* AaptivTime.xcdatamodeld */; };
 		AF4607CB202AB91B0056D66E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF4607CA202AB91B0056D66E /* Assets.xcassets */; };
 		AF4607CE202AB91B0056D66E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF4607CC202AB91B0056D66E /* LaunchScreen.storyboard */; };
@@ -20,6 +35,7 @@
 		AF460800202BDB460056D66E /* ATHttpClientable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607FF202BDB460056D66E /* ATHttpClientable.swift */; };
 		AF460802202BDBD90056D66E /* ATHttpClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF460801202BDBD90056D66E /* ATHttpClient.swift */; };
 		AF460804202BE3600056D66E /* ATNYTimeApiServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF460803202BE3600056D66E /* ATNYTimeApiServiceTests.swift */; };
+		AFB8F745202CD98400473250 /* ATArticlesListDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB8F744202CD98400473250 /* ATArticlesListDataSource.swift */; };
 		BA79DBB46A15C5C8C52228DD /* Pods_AaptivTimeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD8F0466F593A611CB014395 /* Pods_AaptivTimeTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -47,10 +63,25 @@
 		357D10781A175D1610FD3127 /* Pods_AaptivTime.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AaptivTime.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A7C8B527FAD0948F4E5A3AA /* Pods-AaptivTimeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AaptivTimeTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AaptivTimeTests/Pods-AaptivTimeTests.debug.xcconfig"; sourceTree = "<group>"; };
 		6F5813DD91FA4D10D70E027B /* Pods-AaptivTime.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AaptivTime.release.xcconfig"; path = "Pods/Target Support Files/Pods-AaptivTime/Pods-AaptivTime.release.xcconfig"; sourceTree = "<group>"; };
+		AF13FD9F202D4F940035AE6F /* ATArticlesListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticlesListViewModel.swift; sourceTree = "<group>"; };
+		AF13FDA1202D50E00035AE6F /* ATCoreDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATCoreDataService.swift; sourceTree = "<group>"; };
+		AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleItem+CoreDataClass.swift"; sourceTree = "<group>"; };
+		AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYTimeArticleItem.swift; sourceTree = "<group>"; };
+		AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATAppFlowCoordinator.swift; sourceTree = "<group>"; };
+		AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticlesListViewController.swift; sourceTree = "<group>"; };
+		AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ATArticlesListViewController.xib; sourceTree = "<group>"; };
+		AF449F7C202F775D006ACA42 /* ATArticleListDataSourceable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticleListDataSourceable.swift; sourceTree = "<group>"; };
+		AF449F7E202F7A7B006ACA42 /* ATArticleListItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticleListItemCell.swift; sourceTree = "<group>"; };
+		AF449F7F202F7A7B006ACA42 /* ATArticleListItemCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ATArticleListItemCell.xib; sourceTree = "<group>"; };
+		AF449F82202F7AC2006ACA42 /* ATGlobal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATGlobal.swift; sourceTree = "<group>"; };
+		AF449F84202F7DEE006ACA42 /* ATDynamicType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATDynamicType.swift; sourceTree = "<group>"; };
+		AF449F86202F7FBB006ACA42 /* ATSectionScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATSectionScrollView.swift; sourceTree = "<group>"; };
+		AF449F88202F920E006ACA42 /* ATArticleItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticleItemViewModel.swift; sourceTree = "<group>"; };
+		AF449F8A202F9B9C006ACA42 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
 		AF4607BD202AB91B0056D66E /* AaptivTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AaptivTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF4607C0202AB91B0056D66E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF4607C2202AB91B0056D66E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		AF4607C5202AB91B0056D66E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AF4607C8202AB91B0056D66E /* AaptivTime.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AaptivTime.xcdatamodel; sourceTree = "<group>"; };
 		AF4607CA202AB91B0056D66E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF4607CD202AB91B0056D66E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -64,6 +95,7 @@
 		AF4607FF202BDB460056D66E /* ATHttpClientable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATHttpClientable.swift; sourceTree = "<group>"; };
 		AF460801202BDBD90056D66E /* ATHttpClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATHttpClient.swift; sourceTree = "<group>"; };
 		AF460803202BE3600056D66E /* ATNYTimeApiServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATNYTimeApiServiceTests.swift; sourceTree = "<group>"; };
+		AFB8F744202CD98400473250 /* ATArticlesListDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticlesListDataSource.swift; sourceTree = "<group>"; };
 		CD8F0466F593A611CB014395 /* Pods_AaptivTimeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AaptivTimeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D65A796072C869F7B0261687 /* Pods-AaptivTime.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AaptivTime.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AaptivTime/Pods-AaptivTime.debug.xcconfig"; sourceTree = "<group>"; };
 		E4C91A3704F06B4042AE5A8D /* Pods_AaptivTimeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AaptivTimeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,6 +152,16 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		AF13FDAD202DFF120035AE6F /* Utilities & Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				AF449F82202F7AC2006ACA42 /* ATGlobal.swift */,
+				AF449F84202F7DEE006ACA42 /* ATDynamicType.swift */,
+				AF449F8A202F9B9C006ACA42 /* DateExtension.swift */,
+			);
+			path = "Utilities & Extensions";
+			sourceTree = "<group>";
+		};
 		AF4607B4202AB91B0056D66E = {
 			isa = PBXGroup;
 			children = (
@@ -146,6 +188,7 @@
 		AF4607BF202AB91B0056D66E /* AaptivTime */ = {
 			isa = PBXGroup;
 			children = (
+				AF13FDAD202DFF120035AE6F /* Utilities & Extensions */,
 				AF4607F9202B9C1B0056D66E /* Protocols */,
 				AF4607F8202B9C140056D66E /* ViewControllers */,
 				AF4607F7202B9C0C0056D66E /* Views */,
@@ -184,6 +227,7 @@
 		AF4607F1202B9BAD0056D66E /* AppFlowCoordinators */ = {
 			isa = PBXGroup;
 			children = (
+				AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */,
 			);
 			path = AppFlowCoordinators;
 			sourceTree = "<group>";
@@ -191,6 +235,7 @@
 		AF4607F2202B9BC90056D66E /* DataSources */ = {
 			isa = PBXGroup;
 			children = (
+				AFB8F744202CD98400473250 /* ATArticlesListDataSource.swift */,
 			);
 			path = DataSources;
 			sourceTree = "<group>";
@@ -198,6 +243,7 @@
 		AF4607F3202B9BD90056D66E /* DataModels */ = {
 			isa = PBXGroup;
 			children = (
+				AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */,
 				AF4607FE202BB45D0056D66E /* Coredata */,
 			);
 			path = DataModels;
@@ -208,6 +254,7 @@
 			children = (
 				AF460801202BDBD90056D66E /* ATHttpClient.swift */,
 				AF4607FC202BB1630056D66E /* ATNYTimeAPIService.swift */,
+				AF13FDA1202D50E00035AE6F /* ATCoreDataService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -222,6 +269,8 @@
 		AF4607F6202B9C040056D66E /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				AF13FD9F202D4F940035AE6F /* ATArticlesListViewModel.swift */,
+				AF449F88202F920E006ACA42 /* ATArticleItemViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -229,6 +278,9 @@
 		AF4607F7202B9C0C0056D66E /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				AF449F7E202F7A7B006ACA42 /* ATArticleListItemCell.swift */,
+				AF449F7F202F7A7B006ACA42 /* ATArticleListItemCell.xib */,
+				AF449F86202F7FBB006ACA42 /* ATSectionScrollView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -236,6 +288,8 @@
 		AF4607F8202B9C140056D66E /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */,
+				AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -244,6 +298,7 @@
 			isa = PBXGroup;
 			children = (
 				AF4607FF202BDB460056D66E /* ATHttpClientable.swift */,
+				AF449F7C202F775D006ACA42 /* ATArticleListDataSourceable.swift */,
 			);
 			path = Protocols;
 			sourceTree = "<group>";
@@ -260,7 +315,6 @@
 			isa = PBXGroup;
 			children = (
 				AF4607CC202AB91B0056D66E /* LaunchScreen.storyboard */,
-				AF4607C4202AB91B0056D66E /* Main.storyboard */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
@@ -268,6 +322,8 @@
 		AF4607FE202BB45D0056D66E /* Coredata */ = {
 			isa = PBXGroup;
 			children = (
+				AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */,
+				AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */,
 				AF4607C7202AB91B0056D66E /* AaptivTime.xcdatamodeld */,
 			);
 			path = Coredata;
@@ -390,9 +446,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF449F7B202F73BC006ACA42 /* ATArticlesListViewController.xib in Resources */,
 				AF4607CE202AB91B0056D66E /* LaunchScreen.storyboard in Resources */,
+				AF449F81202F7A7B006ACA42 /* ATArticleListItemCell.xib in Resources */,
 				AF4607CB202AB91B0056D66E /* Assets.xcassets in Resources */,
-				AF4607C6202AB91B0056D66E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -551,11 +608,13 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-AaptivTime/Pods-AaptivTime-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyBeaver/SwiftyBeaver.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyBeaver.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -569,12 +628,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF449F85202F7DEE006ACA42 /* ATDynamicType.swift in Sources */,
+				AF449F8B202F9B9C006ACA42 /* DateExtension.swift in Sources */,
+				AF449F7A202F73BC006ACA42 /* ATArticlesListViewController.swift in Sources */,
+				AF449F7D202F775D006ACA42 /* ATArticleListDataSourceable.swift in Sources */,
 				AF4607C3202AB91B0056D66E /* ViewController.swift in Sources */,
 				AF4607FD202BB1630056D66E /* ATNYTimeAPIService.swift in Sources */,
 				AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */,
+				AF13FDAC202DF66C0035AE6F /* NYTimeArticleItem.swift in Sources */,
+				AFB8F745202CD98400473250 /* ATArticlesListDataSource.swift in Sources */,
+				AF13FDAA202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift in Sources */,
+				AF13FDA0202D4F940035AE6F /* ATArticlesListViewModel.swift in Sources */,
 				AF460802202BDBD90056D66E /* ATHttpClient.swift in Sources */,
+				AF449F80202F7A7B006ACA42 /* ATArticleListItemCell.swift in Sources */,
 				AF460800202BDB460056D66E /* ATHttpClientable.swift in Sources */,
+				AF449F77202F65C4006ACA42 /* ATAppFlowCoordinator.swift in Sources */,
+				AF13FDA9202DF6170035AE6F /* ArticleItem+CoreDataClass.swift in Sources */,
+				AF13FDA2202D50E00035AE6F /* ATCoreDataService.swift in Sources */,
 				AF4607C9202AB91B0056D66E /* AaptivTime.xcdatamodeld in Sources */,
+				AF449F83202F7AC2006ACA42 /* ATGlobal.swift in Sources */,
+				AF449F87202F7FBB006ACA42 /* ATSectionScrollView.swift in Sources */,
+				AF449F89202F920E006ACA42 /* ATArticleItemViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -610,14 +684,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		AF4607C4202AB91B0056D66E /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AF4607C5202AB91B0056D66E /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		AF4607CC202AB91B0056D66E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

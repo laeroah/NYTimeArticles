@@ -10,15 +10,25 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let dataSource = ATArticlesListDataSource()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let service = ATNYTimeAPIService()
-        service.fetchTopStories { (json, error) in
-            if let topStories = json {
-                // process top stories here
-            }
-        }
+//        dataSource.fetchNYTimesTopStories()
+//        dataSource.fetchFromDatabase()
+//
+//        dataSource.contentWillChange = {
+//            print("contentWillChange")
+//        }
+//
+//        dataSource.articleDidInsert =
+//            {(item: NYTimeArticleItem, indexPath: IndexPath) in
+//                print("articleDidInsert")
+//        }
+//
+//        let count = dataSource.numberOfSections()
+//        print(count)
     }
 
     override func didReceiveMemoryWarning() {

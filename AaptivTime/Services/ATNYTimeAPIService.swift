@@ -30,24 +30,34 @@ fileprivate enum TimeAPIURL: String {
 final class ATNYTimeAPIService{
 
     var httpClient: ATHttpClientable
+    let dateFormatter = DateFormatter()
 
-    init() {
-        self.httpClient = ATHttpClient()
+    init(httpClient client: ATHttpClientable) {
+        self.httpClient = client
+        self.dateFormatter.locale = Locale(identifier: "en_US_POSIX")
+        self.dateFormatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ssZ"
     }
 
-    convenience init(httpClient client: ATHttpClientable) {
-        self.init()
-        self.httpClient = client
+    convenience init() {
+        self.init(httpClient: ATHttpClient())
     }
 
     /// Fetch top stories from NY Times from the topstory api
     ///
-    /// - Parameter complete: return the json from the api or error when it fails
-    func fetchTopStories(complete: @escaping (_ json: [String: Any]?, _ error: APIServiceError?)->Void) {
+    /// - Parameter complete: return the top stories from the api or error when it fails
+    func fetchTopStories(complete: @escaping (_ topStories: [NYTimeArticleItem]?,
+        _ error: APIServiceError?)->Void) {
         self.fetchNYTimeJSONFeed(from: .topStory) { (result, error) in
 
-            if let json = result as? [String: Any] {
-                complete(json, nil)
+            var topStories = [NYTimeArticleItem]()
+            if let json = result as? [String: Any],
+                let results = json["results"] as? [[String: Any]] {
+                for articleJson in results {
+                    let articleItem = NYTimeArticleItem(withJSON: articleJson,
+                                                        dateFormatter: self.dateFormatter)
+                    topStories.append(articleItem)
+                }
+                complete(topStories, nil)
             } else {
                 complete(nil, .unexpectedResponseFormat)
             }

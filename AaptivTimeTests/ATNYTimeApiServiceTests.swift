@@ -14,7 +14,7 @@ class ATMockHttpClient: ATHttpClientable {
                          complete: @escaping (Any?, Error?) -> ()) {
 
         DispatchQueue(label: "com.ATMockHttpClient.test").async {
-            complete(["dummyKey": "someValue"], nil)
+            complete(["results": [["somekey": "someValue"]]], nil)
         }
     }
 }
