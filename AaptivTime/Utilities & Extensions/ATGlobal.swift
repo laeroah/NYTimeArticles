@@ -9,11 +9,13 @@
 // global variables
 
 import Foundation
+import UIKit
 
 enum ATTableCellIdentifier: String {
     case articleListCell = "ArticleListCell"
 }
 
 enum ATViewDimensions: Int {
-    case articleSectionScrollViewHeight = 50
+    case articleSectionScrollViewHeight = 60
+    case articleSectionScrollViewSpacing = 20
 }

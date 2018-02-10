@@ -25,6 +25,8 @@
 		AF449F87202F7FBB006ACA42 /* ATSectionScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F86202F7FBB006ACA42 /* ATSectionScrollView.swift */; };
 		AF449F89202F920E006ACA42 /* ATArticleItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F88202F920E006ACA42 /* ATArticleItemViewModel.swift */; };
 		AF449F8B202F9B9C006ACA42 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8A202F9B9C006ACA42 /* DateExtension.swift */; };
+		AF449F8D202FAD6E006ACA42 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8C202FAD6E006ACA42 /* ColorExtension.swift */; };
+		AF449F8F202FAED6006ACA42 /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8E202FAED6006ACA42 /* FontExtension.swift */; };
 		AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C0202AB91B0056D66E /* AppDelegate.swift */; };
 		AF4607C3202AB91B0056D66E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C2202AB91B0056D66E /* ViewController.swift */; };
 		AF4607C9202AB91B0056D66E /* AaptivTime.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C7202AB91B0056D66E /* AaptivTime.xcdatamodeld */; };
@@ -79,6 +81,8 @@
 		AF449F86202F7FBB006ACA42 /* ATSectionScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATSectionScrollView.swift; sourceTree = "<group>"; };
 		AF449F88202F920E006ACA42 /* ATArticleItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticleItemViewModel.swift; sourceTree = "<group>"; };
 		AF449F8A202F9B9C006ACA42 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		AF449F8C202FAD6E006ACA42 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		AF449F8E202FAED6006ACA42 /* FontExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontExtension.swift; sourceTree = "<group>"; };
 		AF4607BD202AB91B0056D66E /* AaptivTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AaptivTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF4607C0202AB91B0056D66E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF4607C2202AB91B0056D66E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -158,6 +162,8 @@
 				AF449F82202F7AC2006ACA42 /* ATGlobal.swift */,
 				AF449F84202F7DEE006ACA42 /* ATDynamicType.swift */,
 				AF449F8A202F9B9C006ACA42 /* DateExtension.swift */,
+				AF449F8C202FAD6E006ACA42 /* ColorExtension.swift */,
+				AF449F8E202FAED6006ACA42 /* FontExtension.swift */,
 			);
 			path = "Utilities & Extensions";
 			sourceTree = "<group>";
@@ -637,6 +643,7 @@
 				AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */,
 				AF13FDAC202DF66C0035AE6F /* NYTimeArticleItem.swift in Sources */,
 				AFB8F745202CD98400473250 /* ATArticlesListDataSource.swift in Sources */,
+				AF449F8D202FAD6E006ACA42 /* ColorExtension.swift in Sources */,
 				AF13FDAA202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift in Sources */,
 				AF13FDA0202D4F940035AE6F /* ATArticlesListViewModel.swift in Sources */,
 				AF460802202BDBD90056D66E /* ATHttpClient.swift in Sources */,
@@ -649,6 +656,7 @@
 				AF449F83202F7AC2006ACA42 /* ATGlobal.swift in Sources */,
 				AF449F87202F7FBB006ACA42 /* ATSectionScrollView.swift in Sources */,
 				AF449F89202F920E006ACA42 /* ATArticleItemViewModel.swift in Sources */,
+				AF449F8F202FAED6006ACA42 /* FontExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

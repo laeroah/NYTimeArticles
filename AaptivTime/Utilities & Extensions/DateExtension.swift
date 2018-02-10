@@ -24,7 +24,7 @@ extension Date {
             if hours >= 24 {
                 Date.formatter.dateFormat = "M/dd/yy"
                 return Date.formatter.string(from: self)
-            } else {
+            } else if hours > 0 {
                 return "\(hours)h"
             }
         }

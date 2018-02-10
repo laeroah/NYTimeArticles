@@ -36,4 +36,8 @@ extension ATArticlesListViewModel {
     func articleItem(at indexPath: IndexPath) -> NYTimeArticleItem? {
         return dataSource.item(forSection: indexPath.section, forRow: indexPath.row)
     }
+
+    func sectionName(at index: Int) -> String {
+        return dataSource.sectionName(at: index)
+    }
 }

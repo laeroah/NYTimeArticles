@@ -87,6 +87,14 @@ extension ATArticlesListDataSource {
         return self.fetchResultsController?.sections?.count ?? 0
     }
 
+    func sectionName(at index: Int) -> String {
+        guard let sections = self.fetchResultsController?.sections else {
+            fatalError("No sections in fetchedResultsController")
+        }
+        let sectionInfo = sections[index]
+        return sectionInfo.name
+    }
+
     func item(forSection section: Int, forRow row: Int) -> NYTimeArticleItem? {
 
         let indexPath = IndexPath(row: row, section: section)

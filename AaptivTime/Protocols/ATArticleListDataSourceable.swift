@@ -26,4 +26,5 @@ protocol ATArticleListDataSourceable {
     func numberOfItems(forSection section: Int) -> Int
     func numberOfSections() -> Int
     func item(forSection section: Int, forRow row: Int) -> NYTimeArticleItem?
+    func sectionName(at index: Int) -> String
 }
