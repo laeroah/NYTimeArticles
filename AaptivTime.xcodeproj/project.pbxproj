@@ -27,6 +27,7 @@
 		AF449F8B202F9B9C006ACA42 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8A202F9B9C006ACA42 /* DateExtension.swift */; };
 		AF449F8D202FAD6E006ACA42 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8C202FAD6E006ACA42 /* ColorExtension.swift */; };
 		AF449F8F202FAED6006ACA42 /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8E202FAED6006ACA42 /* FontExtension.swift */; };
+		AF449F9420300640006ACA42 /* ATArticleWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F9220300640006ACA42 /* ATArticleWebViewController.swift */; };
 		AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C0202AB91B0056D66E /* AppDelegate.swift */; };
 		AF4607C3202AB91B0056D66E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C2202AB91B0056D66E /* ViewController.swift */; };
 		AF4607C9202AB91B0056D66E /* AaptivTime.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C7202AB91B0056D66E /* AaptivTime.xcdatamodeld */; };
@@ -83,6 +84,7 @@
 		AF449F8A202F9B9C006ACA42 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
 		AF449F8C202FAD6E006ACA42 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		AF449F8E202FAED6006ACA42 /* FontExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontExtension.swift; sourceTree = "<group>"; };
+		AF449F9220300640006ACA42 /* ATArticleWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticleWebViewController.swift; sourceTree = "<group>"; };
 		AF4607BD202AB91B0056D66E /* AaptivTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AaptivTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF4607C0202AB91B0056D66E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF4607C2202AB91B0056D66E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -296,6 +298,7 @@
 			children = (
 				AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */,
 				AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */,
+				AF449F9220300640006ACA42 /* ATArticleWebViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -614,12 +617,14 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-AaptivTime/Pods-AaptivTime-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyBeaver/SwiftyBeaver.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PKHUD.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyBeaver.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -652,6 +657,7 @@
 				AF449F77202F65C4006ACA42 /* ATAppFlowCoordinator.swift in Sources */,
 				AF13FDA9202DF6170035AE6F /* ArticleItem+CoreDataClass.swift in Sources */,
 				AF13FDA2202D50E00035AE6F /* ATCoreDataService.swift in Sources */,
+				AF449F9420300640006ACA42 /* ATArticleWebViewController.swift in Sources */,
 				AF4607C9202AB91B0056D66E /* AaptivTime.xcdatamodeld in Sources */,
 				AF449F83202F7AC2006ACA42 /* ATGlobal.swift in Sources */,
 				AF449F87202F7FBB006ACA42 /* ATSectionScrollView.swift in Sources */,

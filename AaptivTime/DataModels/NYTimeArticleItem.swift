@@ -62,5 +62,6 @@ struct NYTimeArticleItem {
         createdDate = item.createdDate as Date?
         publishedDate = item.publishedDate as Date?
         thumbnailUrl = item.thumbnailUrl
+        saved = item.saved
     }
 }

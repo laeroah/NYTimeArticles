@@ -14,6 +14,9 @@ target 'AaptivTime' do
   # Logging
   pod 'SwiftyBeaver', '~> 1.5.1'
 
+  # HUD
+  pod 'PKHUD', '~> 5.0'
+
   target 'AaptivTimeTests' do
     inherit! :search_paths
     # Pods for testing

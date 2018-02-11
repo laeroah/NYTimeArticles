@@ -120,5 +120,8 @@ extension ATArticlesListViewController: UITableViewDelegate, UITableViewDataSour
 
         // make the highlight fade
         tableView.deselectRow(at: indexPath, animated: true)
+        if let item = viewModel.articleItem(at: indexPath) {
+            AppDelegate.sharedDelegate?.appFlowCoordinator.showArticleWeb(withArticle: item)
+        }
     }
 }

@@ -2,18 +2,21 @@ PODS:
   - Alamofire (4.6.0)
   - AlamofireImage (3.3.0):
     - Alamofire (~> 4.5)
+  - PKHUD (5.0.0)
   - SwiftyBeaver (1.5.1)
 
 DEPENDENCIES:
   - Alamofire (~> 4.5)
   - AlamofireImage (~> 3.3)
+  - PKHUD (~> 5.0)
   - SwiftyBeaver (~> 1.5.1)
 
 SPEC CHECKSUMS:
   Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
   AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
   SwiftyBeaver: 4f74563624b2c1e821c522c54142b5dd5ebb0f30
 
-PODFILE CHECKSUM: 7e5bebbe5d33230d472101150cf05ac5e35e3399
+PODFILE CHECKSUM: b31841e53b8d8df297ec1383c26585bed3c10ded
 
 COCOAPODS: 1.3.1

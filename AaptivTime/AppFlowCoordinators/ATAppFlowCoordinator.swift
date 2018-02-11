@@ -32,4 +32,11 @@ class ATAppFlowCoordinator {
             AppDelegate.sharedDelegate?.window?.makeKeyAndVisible()
         }
     }
+
+    func showArticleWeb(withArticle item: NYTimeArticleItem) {
+
+        let articleVC = ATArticleWebViewController(articleItem: item)
+        articleVC.navigationItem.largeTitleDisplayMode = .never
+        mainNavigationController?.pushViewController(articleVC, animated: true)
+    }
 }
