@@ -17,6 +17,12 @@ target 'AaptivTime' do
   # HUD
   pod 'PKHUD', '~> 5.0'
 
+  # Reachability
+  pod 'ReachabilitySwift', '~> 4.1.0'
+
+  # Statusbar
+  pod 'NotificationBannerSwift', '~> 1.6.1'
+
   target 'AaptivTimeTests' do
     inherit! :search_paths
     # Pods for testing

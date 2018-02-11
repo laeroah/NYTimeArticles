@@ -2,21 +2,33 @@ PODS:
   - Alamofire (4.6.0)
   - AlamofireImage (3.3.0):
     - Alamofire (~> 4.5)
+  - MarqueeLabel/Swift (3.1.4)
+  - NotificationBannerSwift (1.6.1):
+    - MarqueeLabel/Swift
+    - SnapKit (~> 4.0)
   - PKHUD (5.0.0)
+  - ReachabilitySwift (4.1.0)
+  - SnapKit (4.0.0)
   - SwiftyBeaver (1.5.1)
 
 DEPENDENCIES:
   - Alamofire (~> 4.5)
   - AlamofireImage (~> 3.3)
+  - NotificationBannerSwift (~> 1.6.1)
   - PKHUD (~> 5.0)
+  - ReachabilitySwift (~> 4.1.0)
   - SwiftyBeaver (~> 1.5.1)
 
 SPEC CHECKSUMS:
   Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
   AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  MarqueeLabel: bf768455fe88d427f71476ebb23f9092b660f40b
+  NotificationBannerSwift: 1fc2955381e6eb26d958ba32160fc41721b9b689
   PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
   SwiftyBeaver: 4f74563624b2c1e821c522c54142b5dd5ebb0f30
 
-PODFILE CHECKSUM: b31841e53b8d8df297ec1383c26585bed3c10ded
+PODFILE CHECKSUM: 3903788a3a6cd249b5a4155d2904c6b7a6b3d527
 
 COCOAPODS: 1.3.1

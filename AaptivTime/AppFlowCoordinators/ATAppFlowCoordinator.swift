@@ -8,8 +8,12 @@
 
 import Foundation
 import UIKit
+import NotificationBannerSwift
 
-class ATAppFlowCoordinator {
+class ATAppFlowCoordinator: NSObject {
+
+    var reachabilityObservation: NSKeyValueObservation?
+    var statusbar: StatusBarNotificationBanner?
 
     var mainNavigationController: UINavigationController?
     lazy var articleListViewController: ATArticlesListViewController = {
@@ -44,12 +48,34 @@ class ATAppFlowCoordinator {
         return UIDevice.current.userInterfaceIdiom == .phone
     }
 
+    deinit {
+        reachabilityObservation?.invalidate()
+    }
+
     /// start the initial UI
     func launch() {
         mainNavigationController = UINavigationController(rootViewController: self.tabbarController)
         mainNavigationController?.navigationBar.prefersLargeTitles = true
         AppDelegate.sharedDelegate?.window?.rootViewController = mainNavigationController
         AppDelegate.sharedDelegate?.window?.makeKeyAndVisible()
+
+        addReachabilityObservation()
+    }
+
+    func addReachabilityObservation() {
+        reachabilityObservation = ATReachabilityManager.shared.observe(\.connected) { (manager, change) in
+            DispatchQueue.main.async(execute: {
+                if ATReachabilityManager.shared.connected {
+                    self.statusbar?.dismiss()
+                } else {
+
+                    self.statusbar = StatusBarNotificationBanner(title: "Not connected",
+                                                                 style: .warning)
+                    self.statusbar?.autoDismiss = false
+                    self.statusbar?.show()
+                }
+            })
+        }
     }
 
     func showArticleWeb(withArticle item: NYTimeArticleItem) {
