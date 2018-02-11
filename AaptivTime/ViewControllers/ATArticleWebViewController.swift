@@ -17,6 +17,7 @@ class ATArticleWebViewController: UIViewController, WKUIDelegate {
 
     init(articleItem: NYTimeArticleItem) {
         viewModel = ATArticleItemViewModel(articleItem)
+        viewModel.dataSource = ATArticlesListDataSource()
         super.init(nibName: nil, bundle: nil)
     }
 
@@ -42,10 +43,30 @@ class ATArticleWebViewController: UIViewController, WKUIDelegate {
             let request = URLRequest(url: url)
             webView.load(request)
         }
+
+        updateSaveButton()
+        viewModel.saved.bind { [weak self] (saved) in
+            self?.updateSaveButton()
+        }
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
+    func updateSaveButton() {
+        let savedButtonTitle = viewModel.saved.value ? "saved" : "save"
+        self.navigationItem.rightBarButtonItem =
+            UIBarButtonItem(title: savedButtonTitle,
+                            style: .done,
+                            target: self,
+                            action: viewModel.saved.value ?
+                                #selector(unsaveButtonTapped) :
+                                #selector(saveButtonTapped) )
+    }
+
+    @objc func saveButtonTapped() {
+        viewModel.saveButtonPress()
+    }
+
+    @objc func unsaveButtonTapped() {
+        viewModel.unsaveButtonPress()
     }
 
 }

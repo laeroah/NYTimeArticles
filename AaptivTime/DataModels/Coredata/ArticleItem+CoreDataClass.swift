@@ -46,4 +46,12 @@ public class ArticleItem: NSManagedObject {
             fatalError("Failed to fetch article: \(error)")
         }
     }
+
+    static func findItem(byUrl url: String,
+                         inContext context: NSManagedObjectContext) -> ArticleItem? {
+
+        let request: NSFetchRequest<ArticleItem> = ArticleItem.fetchRequest(url: url)
+        let items = try? context.fetch(request)
+        return items?.first
+    }
 }

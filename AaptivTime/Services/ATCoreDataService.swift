@@ -59,4 +59,23 @@ final class ATCoreDataService {
             }
         }
     }
+
+    /// user save an article
+    func saveArticle(_ item: NYTimeArticleItem) {
+        updateArticle(item, isSaved: true)
+    }
+
+    /// user unsave an article
+    func unsaveArticle(_ item: NYTimeArticleItem) {
+        updateArticle(item, isSaved: false)
+    }
+
+    func updateArticle(_ item: NYTimeArticleItem, isSaved saved: Bool) {
+        if let url = item.url {
+            performCoreDataUpdate { (context) in
+                let managedItem = ArticleItem.findItem(byUrl: url, inContext: context)
+                managedItem?.saved = saved
+            }
+        }
+    }
 }

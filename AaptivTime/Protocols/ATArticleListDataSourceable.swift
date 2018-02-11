@@ -10,6 +10,10 @@ import Foundation
 
 protocol ATArticleListDataSourceable {
 
+    // MARK: services
+    var apiService: ATNYTimeAPIService { get }
+    var coredataService: ATCoreDataService { get }
+
     // MARK: binding the data changes
     var contentWillChange: (()->())? { get set }
     var contentDidChange: (()->())? { get set }

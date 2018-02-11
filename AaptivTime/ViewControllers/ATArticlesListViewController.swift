@@ -124,4 +124,25 @@ extension ATArticlesListViewController: UITableViewDelegate, UITableViewDataSour
             AppDelegate.sharedDelegate?.appFlowCoordinator.showArticleWeb(withArticle: item)
         }
     }
+    
+    func tableView(_ tableView: UITableView, editActionsForRowAt indexPath: IndexPath) -> [UITableViewRowAction]? {
+        
+        if let item = viewModel.articleItem(at: indexPath) {
+            let itemVM = ATArticleItemViewModel(item)
+            let title = item.saved ? "Unsave" : "Save"
+            let save = UITableViewRowAction(style: .normal, title: title) { [weak self] action, index in
+
+                itemVM.dataSource = self?.viewModel.dataSource
+                item.saved ?
+                    itemVM.unsaveButtonPress() :
+                    itemVM.saveButtonPress()
+            }
+            save.backgroundColor = item.saved ?
+                UIColor.init(named: "unsaveButtonColor") :
+                UIColor.init(named: "saveButtonColor")
+            return [save]
+        }
+        
+        return nil
+    }
 }
