@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		38BB3992D7A0267EB5DFD552 /* Pods_AaptivTime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 357D10781A175D1610FD3127 /* Pods_AaptivTime.framework */; };
 		9D2A64C17FD0445DB15429E5 /* Pods_AaptivTimeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C91A3704F06B4042AE5A8D /* Pods_AaptivTimeUITests.framework */; };
+		AF0A3C1E2030235A00228826 /* ATSavedArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0A3C1C2030235A00228826 /* ATSavedArticlesViewController.swift */; };
+		AF0A3C1F2030235A00228826 /* ATSavedArticlesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF0A3C1D2030235A00228826 /* ATSavedArticlesViewController.xib */; };
 		AF13FDA0202D4F940035AE6F /* ATArticlesListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FD9F202D4F940035AE6F /* ATArticlesListViewModel.swift */; };
 		AF13FDA2202D50E00035AE6F /* ATCoreDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA1202D50E00035AE6F /* ATCoreDataService.swift */; };
 		AF13FDA9202DF6170035AE6F /* ArticleItem+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */; };
@@ -66,6 +68,8 @@
 		357D10781A175D1610FD3127 /* Pods_AaptivTime.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AaptivTime.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A7C8B527FAD0948F4E5A3AA /* Pods-AaptivTimeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AaptivTimeTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AaptivTimeTests/Pods-AaptivTimeTests.debug.xcconfig"; sourceTree = "<group>"; };
 		6F5813DD91FA4D10D70E027B /* Pods-AaptivTime.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AaptivTime.release.xcconfig"; path = "Pods/Target Support Files/Pods-AaptivTime/Pods-AaptivTime.release.xcconfig"; sourceTree = "<group>"; };
+		AF0A3C1C2030235A00228826 /* ATSavedArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATSavedArticlesViewController.swift; sourceTree = "<group>"; };
+		AF0A3C1D2030235A00228826 /* ATSavedArticlesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ATSavedArticlesViewController.xib; sourceTree = "<group>"; };
 		AF13FD9F202D4F940035AE6F /* ATArticlesListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticlesListViewModel.swift; sourceTree = "<group>"; };
 		AF13FDA1202D50E00035AE6F /* ATCoreDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATCoreDataService.swift; sourceTree = "<group>"; };
 		AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleItem+CoreDataClass.swift"; sourceTree = "<group>"; };
@@ -299,6 +303,8 @@
 				AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */,
 				AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */,
 				AF449F9220300640006ACA42 /* ATArticleWebViewController.swift */,
+				AF0A3C1C2030235A00228826 /* ATSavedArticlesViewController.swift */,
+				AF0A3C1D2030235A00228826 /* ATSavedArticlesViewController.xib */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -458,6 +464,7 @@
 				AF449F7B202F73BC006ACA42 /* ATArticlesListViewController.xib in Resources */,
 				AF4607CE202AB91B0056D66E /* LaunchScreen.storyboard in Resources */,
 				AF449F81202F7A7B006ACA42 /* ATArticleListItemCell.xib in Resources */,
+				AF0A3C1F2030235A00228826 /* ATSavedArticlesViewController.xib in Resources */,
 				AF4607CB202AB91B0056D66E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -650,6 +657,7 @@
 				AFB8F745202CD98400473250 /* ATArticlesListDataSource.swift in Sources */,
 				AF449F8D202FAD6E006ACA42 /* ColorExtension.swift in Sources */,
 				AF13FDAA202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift in Sources */,
+				AF0A3C1E2030235A00228826 /* ATSavedArticlesViewController.swift in Sources */,
 				AF13FDA0202D4F940035AE6F /* ATArticlesListViewModel.swift in Sources */,
 				AF460802202BDBD90056D66E /* ATHttpClient.swift in Sources */,
 				AF449F80202F7A7B006ACA42 /* ATArticleListItemCell.swift in Sources */,

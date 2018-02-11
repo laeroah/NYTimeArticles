@@ -8,17 +8,16 @@
 
 import UIKit
 
-final class ATArticlesListViewController: UIViewController {
+class ATArticlesListViewController: UIViewController {
 
-    let viewModel: ATArticlesListViewModel
+    var viewModel: ATArticlesListViewModel
     var sectionScroll: ATSectionScrollView?
 
     @IBOutlet weak var tableView: UITableView!
 
     init(viewModel vm: ATArticlesListViewModel) {
         viewModel = vm
-        viewModel.fetchLatestTopStories()
-        super.init(nibName: "ATArticlesListViewController", bundle: nil)
+        super.init(nibName: nil, bundle: nil)
     }
 
     required init?(coder aDecoder: NSCoder) {
@@ -28,8 +27,6 @@ final class ATArticlesListViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        self.title = "Top Stories"
         setupTableView()
         setupViewModelBinding()
     }
@@ -70,9 +67,18 @@ final class ATArticlesListViewController: UIViewController {
             self?.tableView.moveRow(at: IndexPath(row: from, section: 0),
                                     to: IndexPath(row: to, section: 0))
         }
+        viewModel.isFetchingData.bind { [weak self] (fetching) in
+            fetching ?
+            self?.tableView.refreshControl?.beginRefreshing() :
+            self?.tableView.refreshControl?.endRefreshing()
+        }
     }
 
     func setupTableView() {
+
+        let refreshControl = UIRefreshControl()
+        refreshControl.addTarget(self, action: #selector(handlePullToRefresh), for: .valueChanged)
+        tableView.refreshControl = refreshControl
 
         // infinite scrolling header
         let scrollHeader = ATSectionScrollView(frame: CGRect(x: 0, y: 0, width: Int(tableView.frame.size.width), height: ATViewDimensions.articleSectionScrollViewHeight.rawValue),
@@ -87,6 +93,10 @@ final class ATArticlesListViewController: UIViewController {
         tableView.estimatedRowHeight = 150;
         tableView.delegate = self
         tableView.dataSource = self
+    }
+
+    @objc func handlePullToRefresh() {
+        viewModel.fetchLatestTopStories()
     }
 }
 

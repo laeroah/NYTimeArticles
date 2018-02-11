@@ -75,6 +75,9 @@ final class ATArticlesListViewModel: NSObject {
     }
 
     func fetchLatestTopStories() {
+        if isFetchingData.value {
+            return
+        }
         isFetchingData.value = true
         dataSource.fetchNYTimesTopStories { [weak self](error) in
             if let err = error {

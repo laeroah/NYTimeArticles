@@ -15,6 +15,9 @@ final class ATArticlesListDataSource: NSObject, ATArticleListDataSourceable {
     let apiService: ATNYTimeAPIService
     let coredataService: ATCoreDataService
 
+    /// set to true if you want to see saved articles only
+    var savedArticlesOnly = false
+
     var contentWillChange: (()->())?
     var contentDidChange: (()->())?
     var sectionDidInsert: ((String, Int)->())?
@@ -39,20 +42,35 @@ final class ATArticlesListDataSource: NSObject, ATArticleListDataSourceable {
                   withCoreDataService: coredataService)
     }
 
+    convenience init(savedOnly: Bool) {
+        let apiService = ATNYTimeAPIService()
+        let coredataService = ATCoreDataService()
+        self.init(withAPIService: apiService,
+                  withCoreDataService: coredataService)
+
+        self.savedArticlesOnly = savedOnly
+    }
+
     // MARK: lazy properties
     private lazy var fetchResultsController: NSFetchedResultsController<ArticleItem>? = {
         let request: NSFetchRequest<ArticleItem> = ArticleItem.fetchRequest()
         let sectionSort = NSSortDescriptor(key: "section", ascending: true)
         let publishedDateSort = NSSortDescriptor(key: "publishedDate", ascending: false)
-        request.sortDescriptors = [sectionSort, publishedDateSort]
+        request.sortDescriptors = savedArticlesOnly ?
+            [publishedDateSort] :
+            [sectionSort, publishedDateSort]
 
         // fetch all articles within the last 24 hours
-        request.predicate = NSPredicate(format: "publishedDate >= %@", Date().addingHours(-24) as CVarArg)
+        request.predicate = savedArticlesOnly ?
+            NSPredicate(format: "saved == %@", true as CVarArg) :
+            NSPredicate(format: "publishedDate >= %@", Date().addingHours(-24) as CVarArg)
 
         guard let moc = AppDelegate.sharedDelegate?.persistentContainer.viewContext else {
             return nil
         }
-        let fetchedResultsController = NSFetchedResultsController(fetchRequest: request, managedObjectContext: moc, sectionNameKeyPath: "section", cacheName: nil)
+
+        let sectionNameKeyPath: String? = savedArticlesOnly ? nil : "section"
+        let fetchedResultsController = NSFetchedResultsController(fetchRequest: request, managedObjectContext: moc, sectionNameKeyPath: sectionNameKeyPath, cacheName: nil)
         fetchedResultsController.delegate = self
         return fetchedResultsController
     }()
