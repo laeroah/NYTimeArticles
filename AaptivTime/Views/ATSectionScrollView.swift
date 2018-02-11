@@ -41,6 +41,8 @@ class ATSectionScrollView: UIStackView {
         setupSubviews()
         addLayoutConstraints()
 
+        // accessibility
+        scroll.accessibilityIdentifier = "ArticleSectionInfiniteScroll"
     }
 
     required init(coder: NSCoder) {
