@@ -43,13 +43,16 @@ final class ATArticlesListDataSource: NSObject, ATArticleListDataSourceable {
     private lazy var fetchResultsController: NSFetchedResultsController<ArticleItem>? = {
         let request: NSFetchRequest<ArticleItem> = ArticleItem.fetchRequest()
         let sectionSort = NSSortDescriptor(key: "section", ascending: true)
-        let publishedDateSort = NSSortDescriptor(key: "publishedDate", ascending: true)
+        let publishedDateSort = NSSortDescriptor(key: "publishedDate", ascending: false)
         request.sortDescriptors = [sectionSort, publishedDateSort]
+
+        // fetch all articles within the last 24 hours
+        request.predicate = NSPredicate(format: "publishedDate >= %@", Date().addingHours(-24) as CVarArg)
 
         guard let moc = AppDelegate.sharedDelegate?.persistentContainer.viewContext else {
             return nil
         }
-        let fetchedResultsController = NSFetchedResultsController(fetchRequest: request, managedObjectContext: moc, sectionNameKeyPath: "section", cacheName: "com.articletable.list")
+        let fetchedResultsController = NSFetchedResultsController(fetchRequest: request, managedObjectContext: moc, sectionNameKeyPath: "section", cacheName: nil)
         fetchedResultsController.delegate = self
         return fetchedResultsController
     }()
@@ -79,6 +82,11 @@ extension ATArticlesListDataSource {
         guard let sections = self.fetchResultsController?.sections else {
             fatalError("No sections in fetchedResultsController")
         }
+
+        if section >= sections.count || section < 0 {
+            return 0
+        }
+
         let sectionInfo = sections[section]
         return sectionInfo.numberOfObjects
     }

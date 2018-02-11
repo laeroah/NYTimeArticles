@@ -52,7 +52,14 @@ class ATSectionScrollView: UIStackView {
         loadInitialLabels()
     }
 
-    func setupSubviews() {
+    func reload() {
+        for label in sectionLabels {
+            label.removeFromSuperview()
+        }
+        loadInitialLabels()
+    }
+
+    private func setupSubviews() {
         addArrangedSubview(leftButton)
         addArrangedSubview(scroll)
         addArrangedSubview(rightButton)
@@ -73,7 +80,7 @@ class ATSectionScrollView: UIStackView {
         rightButton.contentMode = .scaleAspectFit
     }
 
-    func addLayoutConstraints() {
+    private func addLayoutConstraints() {
 
         scroll.translatesAutoresizingMaskIntoConstraints = false
         leftButton.translatesAutoresizingMaskIntoConstraints = false
@@ -111,7 +118,7 @@ class ATSectionScrollView: UIStackView {
     }
 
     private func view(at index: Int) -> UIView? {
-        return index < sectionLabels.count ? sectionLabels[index] : nil
+        return index < sectionLabels.count && index >= 0 ? sectionLabels[index] : nil
     }
 
     private func loadScrollViewWithPage(_ page: Int) {
@@ -120,6 +127,8 @@ class ATSectionScrollView: UIStackView {
 
         var index = 0
 
+        // page 0 displays the last label
+        // page 1 displays the first label
         if page == 0 {
             index = numPages - 1
         } else if page == numPages + 1 {
@@ -193,12 +202,12 @@ extension ATSectionScrollView: UIScrollViewDelegate {
     func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
         circulateScrollIfNecessary()
         let page = currentPage()
-        delegate?.didSelectSection(page)
+        delegate?.didSelectSection(page - 1)
     }
 
     func scrollViewDidEndScrollingAnimation(_ scrollView: UIScrollView) {
         circulateScrollIfNecessary()
         let page = currentPage()
-        delegate?.didSelectSection(page)
+        delegate?.didSelectSection(page - 1)
     }
 }

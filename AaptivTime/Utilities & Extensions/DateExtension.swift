@@ -15,7 +15,7 @@ extension Date {
     func shortArticleDateLabelString() -> String {
 
         let components = Calendar.current.dateComponents(
-            [.year, .month, .weekOfYear, .day, .hour, .minute, .second],
+            [.hour, .minute, .second],
             from: self,
             to: Date()
         )
@@ -38,5 +38,9 @@ extension Date {
         }
 
         return "just now"
+    }
+
+    func addingHours(_ hours: Int) -> Date {
+        return self.addingTimeInterval(TimeInterval(hours * 3600))
     }
 }

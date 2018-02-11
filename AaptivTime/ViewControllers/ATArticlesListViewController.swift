@@ -11,11 +11,13 @@ import UIKit
 final class ATArticlesListViewController: UIViewController {
 
     let viewModel: ATArticlesListViewModel
+    var sectionScroll: ATSectionScrollView?
 
     @IBOutlet weak var tableView: UITableView!
 
     init(viewModel vm: ATArticlesListViewModel) {
         viewModel = vm
+        viewModel.fetchLatestTopStories()
         super.init(nibName: "ATArticlesListViewController", bundle: nil)
     }
 
@@ -29,6 +31,45 @@ final class ATArticlesListViewController: UIViewController {
 
         self.title = "Top Stories"
         setupTableView()
+        setupViewModelBinding()
+    }
+
+    /// bind the datamodel fields with the views
+    func setupViewModelBinding() {
+        viewModel.currentSelectedSection.bind { [weak self] (section) in
+            // current article section selection has changed
+            self?.tableView.reloadData()
+        }
+        viewModel.contentWillChange = { [weak self] in
+            self?.tableView.beginUpdates()
+        }
+        viewModel.contentDidChange = { [weak self] in
+            self?.tableView.endUpdates()
+        }
+        viewModel.sectionDidInsert = { [weak self] (_, _) in
+            self?.sectionScroll?.reload()
+            self?.tableView.reloadData()
+        }
+        viewModel.sectionDidDelete = { [weak self] (_, _) in
+            self?.sectionScroll?.reload()
+            self?.tableView.reloadData()
+        }
+        viewModel.articleDidInsert = { [weak self] (item, row) in
+            self?.tableView.insertRows(at: [IndexPath(row: row, section: 0)],
+                                       with: .fade)
+        }
+        viewModel.articleDidDelete = { [weak self] (item, row) in
+            self?.tableView.deleteRows(at: [IndexPath(row: row, section: 0)],
+                                       with: .fade)
+        }
+        viewModel.articleDidUpdate = { [weak self] (item, row) in
+            self?.tableView.reloadRows(at: [IndexPath(row: row, section: 0)],
+                                       with: .fade)
+        }
+        viewModel.articleDidMove = { [weak self] (item, from, to) in
+            self?.tableView.moveRow(at: IndexPath(row: from, section: 0),
+                                    to: IndexPath(row: to, section: 0))
+        }
     }
 
     func setupTableView() {
@@ -36,6 +77,8 @@ final class ATArticlesListViewController: UIViewController {
         // infinite scrolling header
         let scrollHeader = ATSectionScrollView(frame: CGRect(x: 0, y: 0, width: Int(tableView.frame.size.width), height: ATViewDimensions.articleSectionScrollViewHeight.rawValue),
                                                viewModel: viewModel)
+        scrollHeader.delegate = self
+        sectionScroll = scrollHeader
         tableView.tableHeaderView = scrollHeader
         tableView.register(UINib(nibName: "ATArticleListItemCell", bundle: nil),
                            forCellReuseIdentifier: ATTableCellIdentifier.articleListCell.rawValue)
@@ -44,6 +87,12 @@ final class ATArticlesListViewController: UIViewController {
         tableView.estimatedRowHeight = 150;
         tableView.delegate = self
         tableView.dataSource = self
+    }
+}
+
+extension ATArticlesListViewController: ATSectionsScrollDelegate {
+    func didSelectSection(_ section: Int) {
+        viewModel.updateSelectedSection(section)
     }
 }
 
