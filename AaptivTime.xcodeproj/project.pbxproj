@@ -32,7 +32,6 @@
 		AF449F8F202FAED6006ACA42 /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F8E202FAED6006ACA42 /* FontExtension.swift */; };
 		AF449F9420300640006ACA42 /* ATArticleWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F9220300640006ACA42 /* ATArticleWebViewController.swift */; };
 		AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C0202AB91B0056D66E /* AppDelegate.swift */; };
-		AF4607C3202AB91B0056D66E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C2202AB91B0056D66E /* ViewController.swift */; };
 		AF4607C9202AB91B0056D66E /* AaptivTime.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AF4607C7202AB91B0056D66E /* AaptivTime.xcdatamodeld */; };
 		AF4607CB202AB91B0056D66E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF4607CA202AB91B0056D66E /* Assets.xcassets */; };
 		AF4607CE202AB91B0056D66E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF4607CC202AB91B0056D66E /* LaunchScreen.storyboard */; };
@@ -93,7 +92,6 @@
 		AF449F9220300640006ACA42 /* ATArticleWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticleWebViewController.swift; sourceTree = "<group>"; };
 		AF4607BD202AB91B0056D66E /* AaptivTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AaptivTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF4607C0202AB91B0056D66E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AF4607C2202AB91B0056D66E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		AF4607C8202AB91B0056D66E /* AaptivTime.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AaptivTime.xcdatamodel; sourceTree = "<group>"; };
 		AF4607CA202AB91B0056D66E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF4607CD202AB91B0056D66E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -213,7 +211,6 @@
 				AF4607F2202B9BC90056D66E /* DataSources */,
 				AF4607F1202B9BAD0056D66E /* AppFlowCoordinators */,
 				AF4607FB202B9C6B0056D66E /* Storyboards */,
-				AF4607C2202AB91B0056D66E /* ViewController.swift */,
 				AF4607C0202AB91B0056D66E /* AppDelegate.swift */,
 				AF4607CF202AB91B0056D66E /* Info.plist */,
 			);
@@ -662,7 +659,6 @@
 				AF449F8B202F9B9C006ACA42 /* DateExtension.swift in Sources */,
 				AF449F7A202F73BC006ACA42 /* ATArticlesListViewController.swift in Sources */,
 				AF449F7D202F775D006ACA42 /* ATArticleListDataSourceable.swift in Sources */,
-				AF4607C3202AB91B0056D66E /* ViewController.swift in Sources */,
 				AF4607FD202BB1630056D66E /* ATNYTimeAPIService.swift in Sources */,
 				AF4607C1202AB91B0056D66E /* AppDelegate.swift in Sources */,
 				AF13FDAC202DF66C0035AE6F /* NYTimeArticleItem.swift in Sources */,
