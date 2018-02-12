@@ -19,10 +19,6 @@ class ATReachabilityManager: NSObject {
     /// use KVO to observe this value to monitor connectivity
     @objc dynamic var connected = true
 
-    deinit {
-        print("????")
-    }
-
     override init() {
 
         super.init()
