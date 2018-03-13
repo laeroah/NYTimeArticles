@@ -10,11 +10,16 @@ import XCTest
 @testable import AaptivTime
 
 class ATMockHttpClient: ATHttpClientable {
-    func startGetRequest(withURL url: String,
-                         complete: @escaping (Any?, Error?) -> ()) {
 
-        DispatchQueue(label: "com.ATMockHttpClient.test").async {
-            complete(["results": [["somekey": "someValue"]]], nil)
+    static let testQueue = DispatchQueue(label: "com.ATMockHttpClient.test")
+
+    func startGetRequest(withURL url: String,
+                         complete: @escaping (HttpRequestResult) -> Void) {
+        ATMockHttpClient.testQueue.async {
+            let documentDirectory = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first
+            let localUrl = documentDirectory?.appendingPathComponent("data.json")
+            let data = try? Data(contentsOf: localUrl!)
+            complete(.success(data))
         }
     }
 }

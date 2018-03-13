@@ -17,6 +17,7 @@
 		AF13FDA9202DF6170035AE6F /* ArticleItem+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */; };
 		AF13FDAA202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */; };
 		AF13FDAC202DF66C0035AE6F /* NYTimeArticleItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */; };
+		AF23727220581F350073D913 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = AF23727120581F350073D913 /* data.json */; };
 		AF449F77202F65C4006ACA42 /* ATAppFlowCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */; };
 		AF449F7A202F73BC006ACA42 /* ATArticlesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */; };
 		AF449F7B202F73BC006ACA42 /* ATArticlesListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */; };
@@ -76,6 +77,7 @@
 		AF13FDA7202DF6170035AE6F /* ArticleItem+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleItem+CoreDataClass.swift"; sourceTree = "<group>"; };
 		AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYTimeArticleItem.swift; sourceTree = "<group>"; };
+		AF23727120581F350073D913 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATAppFlowCoordinator.swift; sourceTree = "<group>"; };
 		AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticlesListViewController.swift; sourceTree = "<group>"; };
 		AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ATArticlesListViewController.xib; sourceTree = "<group>"; };
@@ -254,6 +256,7 @@
 		AF4607F3202B9BD90056D66E /* DataModels */ = {
 			isa = PBXGroup;
 			children = (
+				AF23727120581F350073D913 /* data.json */,
 				AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */,
 				AF4607FE202BB45D0056D66E /* Coredata */,
 			);
@@ -462,6 +465,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF449F7B202F73BC006ACA42 /* ATArticlesListViewController.xib in Resources */,
+				AF23727220581F350073D913 /* data.json in Resources */,
 				AF4607CE202AB91B0056D66E /* LaunchScreen.storyboard in Resources */,
 				AF449F81202F7A7B006ACA42 /* ATArticleListItemCell.xib in Resources */,
 				AF0A3C1F2030235A00228826 /* ATSavedArticlesViewController.xib in Resources */,

@@ -1,0 +1,3711 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+   "section":"home",
+   "last_updated":"2018-03-13T09:57:11-04:00",
+   "num_results":46,
+   "results":[
+      {
+         "section":"Briefing",
+         "subsection":"",
+         "title":"Rex Tillerson, Britain, Qualcomm: Your Tuesday Briefing",
+         "abstract":"Here\u2019s what you need to know to start your day.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/briefing\/donald-trump-britain-qualcomm.html",
+         "byline":"By CHRIS STANFORD",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:45:05-04:00",
+         "created_date":"2018-03-13T05:30:10-04:00",
+         "published_date":"2018-03-13T05:30:10-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/world\/13USBriefing-Amcore2\/13USBriefing-Helicopter-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/world\/13USBriefing-Amcore2\/13USBriefing-Helicopter-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/world\/13USBriefing-Amcore2\/merlin_135400167_a7ec2a56-9683-437c-b891-b16c6d5145b6-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/world\/13USBriefing-Amcore2\/merlin_135400167_a7ec2a56-9683-437c-b891-b16c6d5145b6-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/world\/13USBriefing-Amcore2\/13USBriefing-Amcore2-superJumbo-v2.jpg",
+               "format":"superJumbo",
+               "height":188,
+               "width":624,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GnLFZc"
+      },
+      {
+         "section":"N.Y. \/ Region",
+         "subsection":"",
+         "title":"New York Today: Finding a Place to Disconnect",
+         "abstract":"Tuesday: Phone-free spots in the city, more snow, and Brain Awareness Week.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/nyregion\/new-york-today-finding-a-place-to-disconnect.html",
+         "byline":"By ALEXANDRA S. LEVINE",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T08:05:51-04:00",
+         "created_date":"2018-03-13T06:00:01-04:00",
+         "published_date":"2018-03-13T06:00:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "New York City"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13nytoday1\/13nytoday1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A spot to tune out the world.",
+               "copyright":"Chester Higgins Jr.\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13nytoday1\/13nytoday1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A spot to tune out the world.",
+               "copyright":"Chester Higgins Jr.\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13nytoday1\/merlin_20988007_d1b2d92c-9ed0-454b-848d-12d515825fae-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A spot to tune out the world.",
+               "copyright":"Chester Higgins Jr.\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13nytoday1\/merlin_20988007_d1b2d92c-9ed0-454b-848d-12d515825fae-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A spot to tune out the world.",
+               "copyright":"Chester Higgins Jr.\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13nytoday1\/merlin_20988007_d1b2d92c-9ed0-454b-848d-12d515825fae-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A spot to tune out the world.",
+               "copyright":"Chester Higgins Jr.\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tMzRgo"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"California Today: Meet L.A.\u2019s New Design Czar",
+         "abstract":"Tuesday: The authorities brace for protest, an intense snowfall hits Sierra Nevada, and a new statue commemorates agricultural guest workers.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/us\/california-today-la-design-czar.html",
+         "byline":"By JENNIFER MEDINA and JOSE A. DEL REAL",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T08:58:51-04:00",
+         "created_date":"2018-03-13T08:58:51-04:00",
+         "published_date":"2018-03-13T08:58:51-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "California Today"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13california-today-1\/13california-today-1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Los Angeles\u2019s City Hall",
+               "copyright":"Richard Vogel\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13california-today-1\/13california-today-1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Los Angeles\u2019s City Hall",
+               "copyright":"Richard Vogel\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13california-today-1\/13california-today-1-articleInline.jpg",
+               "format":"Normal",
+               "height":109,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Los Angeles\u2019s City Hall",
+               "copyright":"Richard Vogel\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13california-today-1\/13california-today-1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Los Angeles\u2019s City Hall",
+               "copyright":"Richard Vogel\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13california-today-1\/13california-today-1-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1179,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Los Angeles\u2019s City Hall",
+               "copyright":"Richard Vogel\/Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tIEbgz"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Rex Tillerson Out as Trump\u2019s Secretary of State, Replaced by Mike Pompeo",
+         "abstract":"Rex W. Tillerson, a former chief executive of Exxon Mobil, had been among President Trump\u2019s most well-regarded cabinet choices. He is replaced by Mike Pompeo, currently the C.I.A. director.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/us\/politics\/trump-tillerson-pompeo.html",
+         "byline":"By PETER BAKER and GARDINER HARRIS",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:18:12-04:00",
+         "created_date":"2018-03-13T08:53:17-04:00",
+         "published_date":"2018-03-13T08:53:17-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States International Relations",
+            "Appointments and Executive Changes",
+            "United States Politics and Government"
+         ],
+         "org_facet":[
+            "State Department"
+         ],
+         "per_facet":[
+            "Tillerson, Rex W",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            "Washington (DC)",
+            "United States"
+         ],
+         "multimedia":[
+
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tHTxC9"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Replacing Tillerson With Pompeo Would Supplant a Moderate With a Hawk",
+         "abstract":"The views of Mike Pompeo, the C.I.A. director, have put him in good stead with President Trump, who has come to value his pungent opinions and hard-charging style.",
+         "url":"https:\/\/www.nytimes.com\/2017\/11\/30\/us\/politics\/mike-pompeo-state-cia.html",
+         "byline":"By MARK LANDLER",
+         "item_type":"Article",
+         "updated_date":"2017-11-30T23:34:32-05:00",
+         "created_date":"2017-11-30T20:15:22-05:00",
+         "published_date":"2017-11-30T20:15:22-05:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States International Relations",
+            "United States Politics and Government"
+         ],
+         "org_facet":[
+            "Central Intelligence Agency",
+            "State Department"
+         ],
+         "per_facet":[
+            "Pompeo, Mike",
+            "Tillerson, Rex W",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2017\/12\/01\/world\/01DC-POMPEO-01\/dc-intel2-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As the C.I.A. director, Mike Pompeo has brought a hard-charging style that President Trump values, White House aides said.",
+               "copyright":"Al Drago\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2017\/12\/01\/world\/01DC-POMPEO-01\/dc-intel2-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As the C.I.A. director, Mike Pompeo has brought a hard-charging style that President Trump values, White House aides said.",
+               "copyright":"Al Drago\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2017\/12\/01\/world\/01DC-POMPEO-01\/dc-intel2-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As the C.I.A. director, Mike Pompeo has brought a hard-charging style that President Trump values, White House aides said.",
+               "copyright":"Al Drago\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2017\/12\/01\/world\/01DC-POMPEO-01\/dc-intel2-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As the C.I.A. director, Mike Pompeo has brought a hard-charging style that President Trump values, White House aides said.",
+               "copyright":"Al Drago\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2017\/12\/01\/world\/01DC-POMPEO-01\/dc-intel2-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As the C.I.A. director, Mike Pompeo has brought a hard-charging style that President Trump values, White House aides said.",
+               "copyright":"Al Drago\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2kgE0VD"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"New C.I.A. Deputy Director, Gina Haspel, Had Leading Role in Torture",
+         "abstract":"Ms. Haspel was deeply involved in the torture of detainees and later took part in destroying videotapes of the interrogations.",
+         "url":"https:\/\/www.nytimes.com\/2017\/02\/02\/us\/politics\/cia-deputy-director-gina-haspel-torture-thailand.html",
+         "byline":"By MATTHEW ROSENBERG",
+         "item_type":"Article",
+         "updated_date":"2017-02-03T19:37:15-05:00",
+         "created_date":"2017-02-02T19:39:31-05:00",
+         "published_date":"2017-02-02T19:39:31-05:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Detainees",
+            "Torture"
+         ],
+         "org_facet":[
+            "Central Intelligence Agency"
+         ],
+         "per_facet":[
+            "Pompeo, Mike",
+            "Haspel, Gina"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+
+         ],
+         "short_url":"https:\/\/nyti.ms\/2k6v8z0"
+      },
+      {
+         "section":"Technology",
+         "subsection":"",
+         "title":"Trump Blocks Broadcom\u2019s Bid for Qualcomm",
+         "abstract":"President Trump issued an order prohibiting Broadcom, a Singapore-based chip maker, from purchasing Qualcomm, citing a threat to the national security of the United States.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/technology\/trump-broadcom-qualcomm-merger.html",
+         "byline":"By CECILIA KANG and ALAN RAPPEPORT",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T21:27:02-04:00",
+         "created_date":"2018-03-12T18:50:44-04:00",
+         "published_date":"2018-03-12T18:50:44-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+
+         ],
+         "org_facet":[
+            "Broadcom Corporation",
+            "Committee on Foreign Investment in the United States (CFIUS)",
+            "Qualcomm Inc"
+         ],
+         "per_facet":[
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13BROADCOM-2\/13BROADCOM-2-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Hock Tan, Broadcom\u2019s chief executive, speaking alongside President Trump at the White House in November. Days later the company announced that it wanted to buy Qualcomm.",
+               "copyright":"Evan Vucci\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13BROADCOM-2\/13BROADCOM-2-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Hock Tan, Broadcom\u2019s chief executive, speaking alongside President Trump at the White House in November. Days later the company announced that it wanted to buy Qualcomm.",
+               "copyright":"Evan Vucci\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13BROADCOM-2\/merlin_129594227_27096d2b-2ed9-48d1-a3c8-2699bf0a0989-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Hock Tan, Broadcom\u2019s chief executive, speaking alongside President Trump at the White House in November. Days later the company announced that it wanted to buy Qualcomm.",
+               "copyright":"Evan Vucci\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13BROADCOM-2\/merlin_129594227_27096d2b-2ed9-48d1-a3c8-2699bf0a0989-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Hock Tan, Broadcom\u2019s chief executive, speaking alongside President Trump at the White House in November. Days later the company announced that it wanted to buy Qualcomm.",
+               "copyright":"Evan Vucci\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13BROADCOM-2\/merlin_129594227_27096d2b-2ed9-48d1-a3c8-2699bf0a0989-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Hock Tan, Broadcom\u2019s chief executive, speaking alongside President Trump at the White House in November. Days later the company announced that it wanted to buy Qualcomm.",
+               "copyright":"Evan Vucci\/Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmoNZY"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Despite Mueller\u2019s Push, House Republicans Declare No Evidence of Collusion",
+         "abstract":"House Intelligence Committee Republicans are ending their investigation of Russian meddling in the 2016 election, saying the Trump campaign did not collude with the Kremlin.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/us\/politics\/house-intelligence-trump-russia.html",
+         "byline":"By NICHOLAS FANDOS",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T21:29:11-04:00",
+         "created_date":"2018-03-12T17:59:30-04:00",
+         "published_date":"2018-03-12T17:59:30-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+            "United States Politics and Government",
+            "Presidential Election of 2016"
+         ],
+         "org_facet":[
+            "House Committee on Intelligence",
+            "Republican Party"
+         ],
+         "per_facet":[
+            "Trump, Donald J",
+            "Conaway, K Michael"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/politics\/13dc-intel-1-sub\/13dc-intel-1-sub-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Representative K. Michael Conaway of Texas, right, last month in Washington.",
+               "copyright":"Jacquelyn Martin\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/politics\/13dc-intel-1-sub\/13dc-intel-1-sub-thumbLarge-v2.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Representative K. Michael Conaway of Texas, right, last month in Washington.",
+               "copyright":"Jacquelyn Martin\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/politics\/13dc-intel-1-sub\/merlin_133947207_8e611e5c-52f1-4d53-a310-71520741dd4e-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Representative K. Michael Conaway of Texas, right, last month in Washington.",
+               "copyright":"Jacquelyn Martin\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/politics\/13dc-intel-1-sub\/merlin_133947207_8e611e5c-52f1-4d53-a310-71520741dd4e-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Representative K. Michael Conaway of Texas, right, last month in Washington.",
+               "copyright":"Jacquelyn Martin\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/politics\/13dc-intel-1-sub\/merlin_133947207_8e611e5c-52f1-4d53-a310-71520741dd4e-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Representative K. Michael Conaway of Texas, right, last month in Washington.",
+               "copyright":"Jacquelyn Martin\/Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gmw1NJ"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Conceding to N.R.A., Trump Abandons Brief Gun Control Promise",
+         "abstract":"After a made-for-television moment in which he appeared to embrace expansive gun control, President Trump completed his walk-back on Monday.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/us\/politics\/trump-gun-control-national-rifle-association.html",
+         "byline":"By MICHAEL D. SHEAR and SHERYL GAY STOLBERG",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T23:56:17-04:00",
+         "created_date":"2018-03-12T16:10:13-04:00",
+         "published_date":"2018-03-12T16:10:13-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States Politics and Government",
+            "Gun Control",
+            "Law and Legislation",
+            "School Shootings and Armed Attacks"
+         ],
+         "org_facet":[
+            "House of Representatives",
+            "Senate"
+         ],
+         "per_facet":[
+            "Trump, Donald J",
+            "Cornyn, John"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13dcguns-alpha\/13dcguns-alpha-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Trump met with survivors of the mass shooting at the Marjory Stoneman Douglas High School last month at the White House.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13dcguns-alpha\/13dcguns-alpha-thumbLarge-v2.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Trump met with survivors of the mass shooting at the Marjory Stoneman Douglas High School last month at the White House.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13dcguns-alpha\/13dcguns-alpha-articleInline-v2.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Trump met with survivors of the mass shooting at the Marjory Stoneman Douglas High School last month at the White House.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13dcguns-alpha\/13dcguns-alpha-mediumThreeByTwo210-v2.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Trump met with survivors of the mass shooting at the Marjory Stoneman Douglas High School last month at the White House.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13dcguns-alpha\/13dcguns-alpha-superJumbo-v2.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Trump met with survivors of the mass shooting at the Marjory Stoneman Douglas High School last month at the White House.",
+               "copyright":"Tom Brenner\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmY7II"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Trump Finds Unlikely Culprit in School Shootings: Obama Discipline Policies",
+         "abstract":"The president, goaded by conservatives, is targeting an effort to address racial disparities in school discipline, arguing that any relaxation of policies could let a killer slip through the cracks.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/us\/politics\/trump-school-shootings-obama-discipline-policies.html",
+         "byline":"By ERICA L. GREEN",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:11-04:00",
+         "created_date":"2018-03-13T05:00:11-04:00",
+         "published_date":"2018-03-13T05:00:11-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "School Discipline (Students)",
+            "School Shootings and Armed Attacks",
+            "Blacks",
+            "Discrimination",
+            "Education (K-12)",
+            "Parkland, Fla, Shooting (2018)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/14dc-schools-alpha\/14dc-schools-alpha-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A memorial in front of Marjory Stoneman Douglas High School in Parkland, Fla., after last month\u2019s shooting. The suspect, Nikolas Cruz, is white, and far from evading disciplinary procedures, he had been expelled from the school.",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/14dc-schools-alpha\/14dc-schools-alpha-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A memorial in front of Marjory Stoneman Douglas High School in Parkland, Fla., after last month\u2019s shooting. The suspect, Nikolas Cruz, is white, and far from evading disciplinary procedures, he had been expelled from the school.",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/14dc-schools-alpha\/14dc-schools-alpha-articleInline.jpg",
+               "format":"Normal",
+               "height":157,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A memorial in front of Marjory Stoneman Douglas High School in Parkland, Fla., after last month\u2019s shooting. The suspect, Nikolas Cruz, is white, and far from evading disciplinary procedures, he had been expelled from the school.",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/14dc-schools-alpha\/14dc-schools-alpha-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A memorial in front of Marjory Stoneman Douglas High School in Parkland, Fla., after last month\u2019s shooting. The suspect, Nikolas Cruz, is white, and far from evading disciplinary procedures, he had been expelled from the school.",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/14dc-schools-alpha\/14dc-schools-alpha-superJumbo-v2.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A memorial in front of Marjory Stoneman Douglas High School in Parkland, Fla., after last month\u2019s shooting. The suspect, Nikolas Cruz, is white, and far from evading disciplinary procedures, he had been expelled from the school.",
+               "copyright":"Joe Raedle\/Getty Images"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GnLgWH"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Pressured by Trump, A.T.F. Revisits Bump Stock Rules",
+         "abstract":"In repeatedly promising that bump stocks would be banned, President Trump may have opened his Justice Department to lawsuits.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/us\/politics\/trump-atf-bump-stock-ban.html",
+         "byline":"By ALI WATKINS",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:16-04:00",
+         "created_date":"2018-03-13T05:00:16-04:00",
+         "published_date":"2018-03-13T05:00:16-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Gun Control",
+            "United States Politics and Government",
+            "Firearms",
+            "Regulation and Deregulation of Industry",
+            "Las Vegas, Nev, Shooting (October, 2017)"
+         ],
+         "org_facet":[
+            "Bureau of Alcohol, Tobacco and Firearms",
+            "Justice Department"
+         ],
+         "per_facet":[
+            "Trump, Donald J",
+            "Sessions, Jefferson B III"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/us\/politics\/14dc-bumpstocks\/14dc-bumpstocks-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Guns outfitted with bump stocks were used in the massacre that killed 58 people at an outdoor concert in Las Vegas in October.",
+               "copyright":"George Frey\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/us\/politics\/14dc-bumpstocks\/14dc-bumpstocks-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Guns outfitted with bump stocks were used in the massacre that killed 58 people at an outdoor concert in Las Vegas in October.",
+               "copyright":"George Frey\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/us\/politics\/14dc-bumpstocks\/merlin_134352932_93fcd3ce-4d63-4562-98a0-650b14838e63-articleInline.jpg",
+               "format":"Normal",
+               "height":130,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Guns outfitted with bump stocks were used in the massacre that killed 58 people at an outdoor concert in Las Vegas in October.",
+               "copyright":"George Frey\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/us\/politics\/14dc-bumpstocks\/14dc-bumpstocks-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Guns outfitted with bump stocks were used in the massacre that killed 58 people at an outdoor concert in Las Vegas in October.",
+               "copyright":"George Frey\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/us\/politics\/14dc-bumpstocks\/merlin_134352932_93fcd3ce-4d63-4562-98a0-650b14838e63-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1406,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Guns outfitted with bump stocks were used in the massacre that killed 58 people at an outdoor concert in Las Vegas in October.",
+               "copyright":"George Frey\/Getty Images"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gnh11R"
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"As Putin\u2019s Opponents Flocked to London, His Spies Followed",
+         "abstract":"Russia now has more intelligence agents in London than during the Cold War. The poisoning of a retired Russian double agent has put pressure on the British government to rein them in.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/world\/europe\/london-russia-spies.html",
+         "byline":"By ELLEN BARRY",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T07:12:19-04:00",
+         "created_date":"2018-03-12T23:00:07-04:00",
+         "published_date":"2018-03-12T23:00:07-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Espionage and Intelligence Services",
+            "Assassinations and Attempted Assassinations"
+         ],
+         "org_facet":[
+            "KGB"
+         ],
+         "per_facet":[
+            "Berezovsky, Boris A",
+            "Putin, Vladimir V",
+            "Litvinenko, Alexander V",
+            "Sergei Skripal"
+         ],
+         "geo_facet":[
+            "Great Britain",
+            "Moscow (Russia)",
+            "London (England)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14spies1\/14spies1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A tent covered the park bench on Monday in Salisbury, England, where the former Russian intelligence agent Sergei V. Skripal and his daughter Yulia were found after being poisoned.",
+               "copyright":"Henry Nicholls\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14spies1\/14spies1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A tent covered the park bench on Monday in Salisbury, England, where the former Russian intelligence agent Sergei V. Skripal and his daughter Yulia were found after being poisoned.",
+               "copyright":"Henry Nicholls\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14spies1\/merlin_135380820_8e578f5d-4207-421d-a135-91f26e3145ca-articleInline.jpg",
+               "format":"Normal",
+               "height":120,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A tent covered the park bench on Monday in Salisbury, England, where the former Russian intelligence agent Sergei V. Skripal and his daughter Yulia were found after being poisoned.",
+               "copyright":"Henry Nicholls\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14spies1\/14spies1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A tent covered the park bench on Monday in Salisbury, England, where the former Russian intelligence agent Sergei V. Skripal and his daughter Yulia were found after being poisoned.",
+               "copyright":"Henry Nicholls\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14spies1\/merlin_135380820_8e578f5d-4207-421d-a135-91f26e3145ca-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1298,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A tent covered the park bench on Monday in Salisbury, England, where the former Russian intelligence agent Sergei V. Skripal and his daughter Yulia were found after being poisoned.",
+               "copyright":"Henry Nicholls\/Reuters"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmReaa"
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"Russia Dismisses U.K.\u2019s Accusation Over Spy\u2019s Poisoning",
+         "abstract":"Hours after London said it was \u201chighly likely\u201d that Moscow was behind the nerve-agent attack, Foreign Minister Sergey V. Lavrov called that \u201cnonsense.\u201d",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/world\/europe\/uk-russia-spy-poisoning.html",
+         "byline":"By SOPHIA KISHKOVSKY",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:03:24-04:00",
+         "created_date":"2018-03-13T07:43:58-04:00",
+         "published_date":"2018-03-13T07:43:58-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Politics and Government",
+            "Diplomatic Service, Embassies and Consulates",
+            "Espionage and Intelligence Services"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Skripal, Sergei V",
+            "Lavrov, Sergey V"
+         ],
+         "geo_facet":[
+            "Russia",
+            "Great Britain"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Russiaspy\/14Russiaspy-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Foreign Minister Sergey V. Lavrov said Russia had asked London for details of the substance used in the poisoning, but \u201chad received an incoherent response.\u201d",
+               "copyright":"Sergei Karpukhin\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Russiaspy\/14Russiaspy-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Foreign Minister Sergey V. Lavrov said Russia had asked London for details of the substance used in the poisoning, but \u201chad received an incoherent response.\u201d",
+               "copyright":"Sergei Karpukhin\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Russiaspy\/merlin_135426219_74d7917b-3089-4841-91d8-9574da7f5e2d-articleInline.jpg",
+               "format":"Normal",
+               "height":126,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Foreign Minister Sergey V. Lavrov said Russia had asked London for details of the substance used in the poisoning, but \u201chad received an incoherent response.\u201d",
+               "copyright":"Sergei Karpukhin\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Russiaspy\/14Russiaspy-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Foreign Minister Sergey V. Lavrov said Russia had asked London for details of the substance used in the poisoning, but \u201chad received an incoherent response.\u201d",
+               "copyright":"Sergei Karpukhin\/Reuters"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Russiaspy\/merlin_135426219_74d7917b-3089-4841-91d8-9574da7f5e2d-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1358,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Foreign Minister Sergey V. Lavrov said Russia had asked London for details of the substance used in the poisoning, but \u201chad received an incoherent response.\u201d",
+               "copyright":"Sergei Karpukhin\/Reuters"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gmu97q"
+      },
+      {
+         "section":"N.Y. \/ Region",
+         "subsection":"",
+         "title":"Doors-Off Helicopter Flights Under Scrutiny After East River Crash",
+         "abstract":"The crash raised questions about the safety risks involved in allowing amateurs on so-called photo flights.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/nyregion\/helicopter-crash-nyc.html",
+         "byline":"By BENJAMIN MUELLER",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T20:18:04-04:00",
+         "created_date":"2018-03-12T10:06:11-04:00",
+         "published_date":"2018-03-12T10:06:11-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Helicopters",
+            "Aviation Accidents, Safety and Disasters"
+         ],
+         "org_facet":[
+            "Fire Department (NYC)",
+            "Liberty Helicopter",
+            "Police Department (NYC)",
+            "National Transportation Safety Board"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "East River (NYC)",
+            "New York City"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13crash11\/13crash11-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The helicopter is hoisted from the East River and put onto a barge on Monday.",
+               "copyright":"Mark Lennihan\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13crash11\/13crash11-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The helicopter is hoisted from the East River and put onto a barge on Monday.",
+               "copyright":"Mark Lennihan\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13crash11\/merlin_135400173_d81b9aac-3183-4f84-8cac-4a18d19cce1a-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The helicopter is hoisted from the East River and put onto a barge on Monday.",
+               "copyright":"Mark Lennihan\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13crash11\/merlin_135400173_d81b9aac-3183-4f84-8cac-4a18d19cce1a-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The helicopter is hoisted from the East River and put onto a barge on Monday.",
+               "copyright":"Mark Lennihan\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13crash11\/merlin_135400173_d81b9aac-3183-4f84-8cac-4a18d19cce1a-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The helicopter is hoisted from the East River and put onto a barge on Monday.",
+               "copyright":"Mark Lennihan\/Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tFAsQU"
+      },
+      {
+         "section":"N.Y. \/ Region",
+         "subsection":"",
+         "title":"Firefighter, Journalist and Tourist Among Victims of Helicopter Crash",
+         "abstract":"Of the five who died in the East River crash, some were newcomers to the city, others tourists from as far as Argentina. None were older than 34.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/nyregion\/victims-helicopter-crash-east-river.html",
+         "byline":"By ELIZABETH A. HARRIS and MANNY FERNANDEZ",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T20:43:49-04:00",
+         "created_date":"2018-03-12T15:51:52-04:00",
+         "published_date":"2018-03-12T15:51:52-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Aviation Accidents, Safety and Disasters"
+         ],
+         "org_facet":[
+            "Business Insider Inc",
+            "Southern Methodist University"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Dallas (Tex)",
+            "East River (NYC)",
+            "New York City"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13victims1\/13victims1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a video posted by Trevor Cadigan, right, on Instagram on Sunday, showing him in the helicopter that crashed in the East River.",
+               "copyright":"Trevor Cadigan"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13victims1\/13victims1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a video posted by Trevor Cadigan, right, on Instagram on Sunday, showing him in the helicopter that crashed in the East River.",
+               "copyright":"Trevor Cadigan"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13victims1\/merlin_135393300_bbe6a2fa-30e9-48d9-b355-10c80d8ab516-articleInline.jpg",
+               "format":"Normal",
+               "height":105,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a video posted by Trevor Cadigan, right, on Instagram on Sunday, showing him in the helicopter that crashed in the East River.",
+               "copyright":"Trevor Cadigan"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13victims1\/13victims1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a video posted by Trevor Cadigan, right, on Instagram on Sunday, showing him in the helicopter that crashed in the East River.",
+               "copyright":"Trevor Cadigan"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/nyregion\/13victims1\/merlin_135393300_bbe6a2fa-30e9-48d9-b355-10c80d8ab516-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":654,
+               "width":1184,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a video posted by Trevor Cadigan, right, on Instagram on Sunday, showing him in the helicopter that crashed in the East River.",
+               "copyright":"Trevor Cadigan"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GlXGhM"
+      },
+      {
+         "section":"Magazine",
+         "subsection":"",
+         "title":"Does Recovery Kill Great Writing?",
+         "abstract":"As I emerged from alcoholism, I had to face down a terrifying question.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/magazine\/does-recovery-kill-great-writing.html",
+         "byline":"",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T08:08:13-04:00",
+         "created_date":"2018-03-13T05:00:10-04:00",
+         "published_date":"2018-03-13T05:00:10-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Writing and Writers",
+            "Alcohol Abuse",
+            "Books and Literature"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/magazine\/18mag-recovery1-copy\/18mag-recovery1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Photo illustration by Cristiana Couceiro"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/magazine\/18mag-recovery1-copy\/18mag-recovery1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Photo illustration by Cristiana Couceiro"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/magazine\/18mag-recovery1-copy\/18mag-recovery1-articleInline.jpg",
+               "format":"Normal",
+               "height":231,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Photo illustration by Cristiana Couceiro"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/magazine\/18mag-recovery1-copy\/18mag-recovery1-copy-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Photo illustration by Cristiana Couceiro"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/magazine\/18mag-recovery1-copy\/18mag-recovery1-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":2048,
+               "width":1683,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Photo illustration by Cristiana Couceiro"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GkIYY4"
+      },
+      {
+         "section":"Opinion",
+         "subsection":"",
+         "title":"To Fight China on Trade, We Need More Than Tariffs",
+         "abstract":"Broad tariffs alone won\u2019t do anything to stop China\u2019s unfair practices. The U.S. should use every tool in its arsenal.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/opinion\/rubio-china-trade-tariffs.html",
+         "byline":"By MARCO RUBIO",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:45:06-04:00",
+         "created_date":"2018-03-13T05:45:06-04:00",
+         "published_date":"2018-03-13T05:45:06-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "International Trade and World Market",
+            "Protectionism (Trade)",
+            "Labor and Jobs"
+         ],
+         "org_facet":[
+            "World Trade Organization"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Rubio2\/13Rubio2-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers loading a ship last week in Nantong in China\u2019s eastern Jiangsu Province.",
+               "copyright":"Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Rubio2\/13Rubio2-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers loading a ship last week in Nantong in China\u2019s eastern Jiangsu Province.",
+               "copyright":"Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Rubio2\/merlin_135317085_1a200663-d396-4c38-8e8e-7356edc24fd2-articleInline.jpg",
+               "format":"Normal",
+               "height":130,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers loading a ship last week in Nantong in China\u2019s eastern Jiangsu Province.",
+               "copyright":"Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Rubio2\/13Rubio2-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers loading a ship last week in Nantong in China\u2019s eastern Jiangsu Province.",
+               "copyright":"Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Rubio2\/merlin_135317085_1a200663-d396-4c38-8e8e-7356edc24fd2-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1401,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers loading a ship last week in Nantong in China\u2019s eastern Jiangsu Province.",
+               "copyright":"Agence France-Presse \u2014 Getty Images"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GlxwLZ"
+      },
+      {
+         "section":"Opinion",
+         "subsection":"",
+         "title":"Should an Abused Wife Be Charged in Her Husband\u2019s Crime?",
+         "abstract":"The link between domestic violence and mass shootings raises questions about what legal responsibility we load on abuse victims.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/opinion\/noor-salman-vegas-shooting-trial.html",
+         "byline":"By DEBORAH EPSTEIN and KIT GRUELLE",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T19:45:48-04:00",
+         "created_date":"2018-03-12T19:45:48-04:00",
+         "published_date":"2018-03-12T19:45:48-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Domestic Violence",
+            "Terrorism"
+         ],
+         "org_facet":[
+            "Pulse (Orlando, Fla, Nightclub)"
+         ],
+         "per_facet":[
+            "Mateen, Omar (1986-2016)",
+            "Salman, Noor Zahi"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13epstein\/13epstein-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Laura Lannes"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13epstein\/13epstein-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Laura Lannes"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13epstein\/merlin_135409269_f7255459-2b9c-43e8-b092-427ceca15e62-articleInline.jpg",
+               "format":"Normal",
+               "height":133,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Laura Lannes"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13epstein\/merlin_135409269_f7255459-2b9c-43e8-b092-427ceca15e62-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Laura Lannes"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13epstein\/merlin_135409269_f7255459-2b9c-43e8-b092-427ceca15e62-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1438,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Laura Lannes"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GkS1Z6"
+      },
+      {
+         "section":"Opinion",
+         "subsection":"",
+         "title":"Democrats Can\u2019t Win if They Don\u2019t Run",
+         "abstract":"Tuesday\u2019s special election in Pennsylvania\u2019s 18th congressional district is a reminder of why it\u2019s important to run candidates in every race.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/opinion\/pennsylvania-democrats-special-election.html",
+         "byline":"By THE EDITORIAL BOARD",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T22:22:52-04:00",
+         "created_date":"2018-03-12T22:22:53-04:00",
+         "published_date":"2018-03-12T22:22:53-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States Politics and Government",
+            "Elections, House of Representatives"
+         ],
+         "org_facet":[
+            "Democratic Congressional Campaign Committee"
+         ],
+         "per_facet":[
+            "Lamb, Conor J (1984- )",
+            "Saccone, Richard (1958- )",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            "Pennsylvania"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13demsWeb\/13demsWeb-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, the Democratic candidate in the special House election in Pennsylvania on Tuesday, was going door to door in a Pittsburgh neighborhood last month.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13demsWeb\/13demsWeb-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, the Democratic candidate in the special House election in Pennsylvania on Tuesday, was going door to door in a Pittsburgh neighborhood last month.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13demsWeb\/13demsWeb-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, the Democratic candidate in the special House election in Pennsylvania on Tuesday, was going door to door in a Pittsburgh neighborhood last month.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13demsWeb\/13demsWeb-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, the Democratic candidate in the special House election in Pennsylvania on Tuesday, was going door to door in a Pittsburgh neighborhood last month.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13demsWeb\/13demsWeb-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1369,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, the Democratic candidate in the special House election in Pennsylvania on Tuesday, was going door to door in a Pittsburgh neighborhood last month.",
+               "copyright":"Dustin Franz for The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tGexsP"
+      },
+      {
+         "section":"Opinion",
+         "subsection":"",
+         "title":"Storm Over Pennsylvania",
+         "abstract":"President Trump unleashes his charms on Kim Jong-un and the voters of the 18th Congressional District.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/opinion\/trump-saccone-lamb-pennsylvania.html",
+         "byline":"By GAIL COLLINS and BRET STEPHENS",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:02:56-04:00",
+         "created_date":"2018-03-13T05:30:07-04:00",
+         "published_date":"2018-03-13T05:30:07-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Customs (Tariff)",
+            "Protectionism (Trade)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Lamb, Conor J (1984- )",
+            "Trump, Donald J",
+            "Saccone, Richard (1958- )"
+         ],
+         "geo_facet":[
+            "Pennsylvania"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Conversation\/13Conversation-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of President Trump at the Pittsburgh airport on Saturday.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Conversation\/13Conversation-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of President Trump at the Pittsburgh airport on Saturday.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Conversation\/merlin_135316698_7dffc53c-ddc6-4335-b652-6d54142795c7-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of President Trump at the Pittsburgh airport on Saturday.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Conversation\/merlin_135316698_7dffc53c-ddc6-4335-b652-6d54142795c7-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of President Trump at the Pittsburgh airport on Saturday.",
+               "copyright":"Tom Brenner\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/opinion\/13Conversation\/merlin_135316698_7dffc53c-ddc6-4335-b652-6d54142795c7-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of President Trump at the Pittsburgh airport on Saturday.",
+               "copyright":"Tom Brenner\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmmmGK"
+      },
+      {
+         "section":"Opinion",
+         "subsection":"",
+         "title":"Springtime for Sycophants",
+         "abstract":"Trump only wants advisers who treat him like a tin-pot dictator demands.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/opinion\/trump-trade-peter-navarro.html",
+         "byline":"By PAUL KRUGMAN",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T18:49:43-04:00",
+         "created_date":"2018-03-12T18:49:43-04:00",
+         "published_date":"2018-03-12T18:49:43-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "International Trade and World Market",
+            "Protectionism (Trade)",
+            "United States Politics and Government",
+            "Value-Added Tax",
+            "Customs (Tariff)"
+         ],
+         "org_facet":[
+            "European Union"
+         ],
+         "per_facet":[
+            "Trump, Donald J",
+            "Navarro, Peter"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13krugmanWeb\/13krugmanWeb-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Peter Navarro, the White House trade adviser, knows to tell President Trump that he\u2019s always right.",
+               "copyright":"Andrew Harrer\/Bloomberg"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13krugmanWeb\/13krugmanWeb-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Peter Navarro, the White House trade adviser, knows to tell President Trump that he\u2019s always right.",
+               "copyright":"Andrew Harrer\/Bloomberg"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13krugmanWeb\/13krugmanWeb-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Peter Navarro, the White House trade adviser, knows to tell President Trump that he\u2019s always right.",
+               "copyright":"Andrew Harrer\/Bloomberg"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13krugmanWeb\/13krugmanWeb-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Peter Navarro, the White House trade adviser, knows to tell President Trump that he\u2019s always right.",
+               "copyright":"Andrew Harrer\/Bloomberg"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/opinion\/13krugmanWeb\/13krugmanWeb-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Peter Navarro, the White House trade adviser, knows to tell President Trump that he\u2019s always right.",
+               "copyright":"Andrew Harrer\/Bloomberg"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tH5J5N"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"3 Austin Package Explosions, 2 of Them Deadly, Appear to Be Linked",
+         "abstract":"The Austin interim police chief warned residents not to touch any unexpected or suspicious packages. \u201cCall 911,\u201d he said.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/us\/austin-package-explosions.html",
+         "byline":"By MAYA SALAM",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T23:17:31-04:00",
+         "created_date":"2018-03-12T15:36:37-04:00",
+         "published_date":"2018-03-12T15:36:37-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Bombs and Explosives",
+            "Hate Crimes"
+         ],
+         "org_facet":[
+            "Bureau of Alcohol, Tobacco and Firearms",
+            "Federal Bureau of Investigation"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Austin (Tex)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-austin\/13xp-austin-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"F.B.I. agents investigated the scene in East Austin, Tex., on Monday, after a teenager was killed and a woman was injured when a package that was dropped off at their home exploded.",
+               "copyright":"Ricardo B. Brazziell\/Austin American-Statesman, via Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-austin\/13xp-austin-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"F.B.I. agents investigated the scene in East Austin, Tex., on Monday, after a teenager was killed and a woman was injured when a package that was dropped off at their home exploded.",
+               "copyright":"Ricardo B. Brazziell\/Austin American-Statesman, via Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-austin\/13xp-austin-articleInline.jpg",
+               "format":"Normal",
+               "height":125,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"F.B.I. agents investigated the scene in East Austin, Tex., on Monday, after a teenager was killed and a woman was injured when a package that was dropped off at their home exploded.",
+               "copyright":"Ricardo B. Brazziell\/Austin American-Statesman, via Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-austin\/13xp-austin-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"F.B.I. agents investigated the scene in East Austin, Tex., on Monday, after a teenager was killed and a woman was injured when a package that was dropped off at their home exploded.",
+               "copyright":"Ricardo B. Brazziell\/Austin American-Statesman, via Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-austin\/13xp-austin-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1274,
+               "width":2000,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"F.B.I. agents investigated the scene in East Austin, Tex., on Monday, after a teenager was killed and a woman was injured when a package that was dropped off at their home exploded.",
+               "copyright":"Ricardo B. Brazziell\/Austin American-Statesman, via Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tHq1MI"
+      },
+      {
+         "section":"Arts",
+         "subsection":"Music",
+         "title":"James Levine\u2019s Final Act at the Met Ends in Disgrace",
+         "abstract":"An investigation found that the celebrated conductor had engaged in \u201csexually abusive and harassing conduct\u201d both before and during his time at the Met.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/arts\/music\/james-levine-metropolitan-opera.html",
+         "byline":"By MICHAEL COOPER",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T21:36:59-04:00",
+         "created_date":"2018-03-12T17:00:23-04:00",
+         "published_date":"2018-03-12T17:00:23-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Opera",
+            "Classical Music",
+            "Sex Crimes"
+         ],
+         "org_facet":[
+            "Metropolitan Opera"
+         ],
+         "per_facet":[
+            "Levine, James"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13metopera\/00levine-hfomain-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"James Levine in the pit at a Metropolitan Opera rehearsal in 2009.",
+               "copyright":"Sara Krulwich\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13metopera\/00levine-hfomain-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"James Levine in the pit at a Metropolitan Opera rehearsal in 2009.",
+               "copyright":"Sara Krulwich\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13metopera\/merlin_31937230_ec43b2d1-7634-4100-8916-3290b0cf7bd8-articleInline.jpg",
+               "format":"Normal",
+               "height":139,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"James Levine in the pit at a Metropolitan Opera rehearsal in 2009.",
+               "copyright":"Sara Krulwich\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13metopera\/00levine-hfomain-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"James Levine in the pit at a Metropolitan Opera rehearsal in 2009.",
+               "copyright":"Sara Krulwich\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13metopera\/merlin_31937230_ec43b2d1-7634-4100-8916-3290b0cf7bd8-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1497,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"James Levine in the pit at a Metropolitan Opera rehearsal in 2009.",
+               "copyright":"Sara Krulwich\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmfV6K"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"Relentless Weather: More Snow as Another Nor\u2019easter Takes Aim",
+         "abstract":"New England braced for another storm, its third in two weeks. Schools, flights and trains were canceled, as weary residents prepared for a rerun.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/us\/weather-noreaster-snow-storm.html",
+         "byline":"By KATHARINE Q. SEELYE and CHRISTINA CARON",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T20:01:50-04:00",
+         "created_date":"2018-03-12T20:01:50-04:00",
+         "published_date":"2018-03-12T20:01:50-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Snow and Snowstorms",
+            "Power Failures and Blackouts"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "New England States (US)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13storm\/13storm-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The storm that hit Maine last week left people digging out. Now New England residents are bracing for more snow.",
+               "copyright":"Robert F. Bukaty\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13storm\/13storm-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The storm that hit Maine last week left people digging out. Now New England residents are bracing for more snow.",
+               "copyright":"Robert F. Bukaty\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13storm\/merlin_135189948_b4bf4ac2-013c-4637-b62e-a32e9321500d-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The storm that hit Maine last week left people digging out. Now New England residents are bracing for more snow.",
+               "copyright":"Robert F. Bukaty\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13storm\/merlin_135189948_b4bf4ac2-013c-4637-b62e-a32e9321500d-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The storm that hit Maine last week left people digging out. Now New England residents are bracing for more snow.",
+               "copyright":"Robert F. Bukaty\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13storm\/merlin_135189948_b4bf4ac2-013c-4637-b62e-a32e9321500d-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1337,
+               "width":2007,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The storm that hit Maine last week left people digging out. Now New England residents are bracing for more snow.",
+               "copyright":"Robert F. Bukaty\/Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GjGMQF"
+      },
+      {
+         "section":"World",
+         "subsection":"Asia Pacific",
+         "title":"China Unveils Superagencies to Fight Pollution and Other Threats to Party Rule",
+         "abstract":"President Xi Jinping\u2019s plan would shake up some of China\u2019s most powerful bureaucracies, but there are many uncertainties about whether it can achieve its goals.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/world\/asia\/china-xi-jinping-congress-pollution-corruption.html",
+         "byline":"By CHRIS BUCKLEY and KEITH BRADSHER",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:16:15-04:00",
+         "created_date":"2018-03-13T09:16:15-04:00",
+         "published_date":"2018-03-13T09:16:15-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Politics and Government",
+            "Corruption (Institutional)"
+         ],
+         "org_facet":[
+            "Communist Party of China"
+         ],
+         "per_facet":[
+            "Xi Jinping"
+         ],
+         "geo_facet":[
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14china-1\/14china-1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A plan to reorganize China\u2019s government, released Tuesday to the National People\u2019s Congress, would create two powerful new ministries and a new financial regulator.",
+               "copyright":"Nicolas Asfouri\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14china-1\/14china-1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A plan to reorganize China\u2019s government, released Tuesday to the National People\u2019s Congress, would create two powerful new ministries and a new financial regulator.",
+               "copyright":"Nicolas Asfouri\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14china-1\/merlin_135421023_d8907ced-6b99-4a4b-907c-3c81cc4374e1-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A plan to reorganize China\u2019s government, released Tuesday to the National People\u2019s Congress, would create two powerful new ministries and a new financial regulator.",
+               "copyright":"Nicolas Asfouri\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14china-1\/merlin_135421023_d8907ced-6b99-4a4b-907c-3c81cc4374e1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A plan to reorganize China\u2019s government, released Tuesday to the National People\u2019s Congress, would create two powerful new ministries and a new financial regulator.",
+               "copyright":"Nicolas Asfouri\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14china-1\/merlin_135421023_d8907ced-6b99-4a4b-907c-3c81cc4374e1-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A plan to reorganize China\u2019s government, released Tuesday to the National People\u2019s Congress, would create two powerful new ministries and a new financial regulator.",
+               "copyright":"Nicolas Asfouri\/Agence France-Presse \u2014 Getty Images"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gs5heN"
+      },
+      {
+         "section":"World",
+         "subsection":"Asia Pacific",
+         "title":"A Reporter Rolled Her Eyes, and China\u2019s Internet Broke",
+         "abstract":"The obvious exasperation with a fawning question \u2014 a rare unscripted moment from the National People\u2019s Congress \u2014 spread quickly on social media. Censors clamped down.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/world\/asia\/china-eye-roll-liang-xiangyi.html",
+         "byline":"By PAUL MOZUR",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:24:33-04:00",
+         "created_date":"2018-03-13T08:03:23-04:00",
+         "published_date":"2018-03-13T08:03:23-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Politics and Government",
+            "Social Media",
+            "Censorship"
+         ],
+         "org_facet":[
+            "National People's Congress (China)",
+            "Weibo Corporation"
+         ],
+         "per_facet":[
+            "Liang Xiangyi"
+         ],
+         "geo_facet":[
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Eyeroll\/14Eyeroll-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Eyeroll\/14Eyeroll-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Eyeroll\/14Eyeroll-articleInline.jpg",
+               "format":"Normal",
+               "height":107,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Eyeroll\/14Eyeroll-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14Eyeroll\/14Eyeroll-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":884,
+               "width":1574,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":""
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tMDNgS"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"How Young Is Too Young for Protest? A National Gun-Violence Walkout Tests Schools",
+         "abstract":"A coordinated protest on Wednesday at schools across the U.S. has administrators making special plans for students who may not be old enough to handle the subject.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/us\/national-school-walkout-guns.html",
+         "byline":"By STEPHANIE SAUL and ANEMONA HARTOCOLLIS",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:13-04:00",
+         "created_date":"2018-03-13T05:00:13-04:00",
+         "published_date":"2018-03-13T05:00:13-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Demonstrations, Protests and Riots",
+            "Parkland, Fla, Shooting (2018)",
+            "Gun control",
+            "Children and Childhood",
+            "School Shootings and Armed Attacks"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Akron (Ohio)",
+            "Parkland (Fla)",
+            "Santa Monica (Calif)",
+            "Utah",
+            "Nashville (Tenn)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/00walkout-3\/00walkout-3-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Maeva Lile and her fifth-grade class at Case Elementary School in Akron, Ohio, will walk out of school on Wednesday carrying posters with the names of students killed in Parkland, Fla.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/00walkout-3\/00walkout-3-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Maeva Lile and her fifth-grade class at Case Elementary School in Akron, Ohio, will walk out of school on Wednesday carrying posters with the names of students killed in Parkland, Fla.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/00walkout-3\/merlin_135403521_ff98d71e-134d-41c7-8e37-1d51979f710a-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Maeva Lile and her fifth-grade class at Case Elementary School in Akron, Ohio, will walk out of school on Wednesday carrying posters with the names of students killed in Parkland, Fla.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/00walkout-3\/merlin_135403521_ff98d71e-134d-41c7-8e37-1d51979f710a-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Maeva Lile and her fifth-grade class at Case Elementary School in Akron, Ohio, will walk out of school on Wednesday carrying posters with the names of students killed in Parkland, Fla.",
+               "copyright":"Dustin Franz for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/00walkout-3\/merlin_135403521_ff98d71e-134d-41c7-8e37-1d51979f710a-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1367,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Maeva Lile and her fifth-grade class at Case Elementary School in Akron, Ohio, will walk out of school on Wednesday carrying posters with the names of students killed in Parkland, Fla.",
+               "copyright":"Dustin Franz for The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GnaOmI"
+      },
+      {
+         "section":"Business Day",
+         "subsection":"",
+         "title":"The Next Goldman Chief Could Be a Banker Who Moonlights as a D.J.",
+         "abstract":"The company said Harvey Schwartz would retire, clearing the way for David Solomon, his fellow president and co-chief operating officer, to take the top job.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/business\/dealbook\/goldman-harvey-schwartz-david-solomon.html",
+         "byline":"By KATE KELLY",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T21:47:00-04:00",
+         "created_date":"2018-03-12T09:28:52-04:00",
+         "published_date":"2018-03-12T09:28:52-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Appointments and Executive Changes"
+         ],
+         "org_facet":[
+            "Goldman Sachs Group Inc"
+         ],
+         "per_facet":[
+            "Blankfein, Lloyd C",
+            "Schwartz, Harvey M",
+            "Solomon, David M"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13SOLOMON\/13SOLOMON-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David M. Solomon will become the sole president and chief operating officer of Goldman Sachs. He had been co-chief operating officer with Harvey M. Schwartz, who Goldman said on Monday would retire in April.",
+               "copyright":"Guerin Blask for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13SOLOMON\/13SOLOMON-thumbLarge-v2.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David M. Solomon will become the sole president and chief operating officer of Goldman Sachs. He had been co-chief operating officer with Harvey M. Schwartz, who Goldman said on Monday would retire in April.",
+               "copyright":"Guerin Blask for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13SOLOMON\/13SOLOMON-articleInline-v2.jpg",
+               "format":"Normal",
+               "height":121,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David M. Solomon will become the sole president and chief operating officer of Goldman Sachs. He had been co-chief operating officer with Harvey M. Schwartz, who Goldman said on Monday would retire in April.",
+               "copyright":"Guerin Blask for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13SOLOMON\/13SOLOMON-mediumThreeByTwo210-v2.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David M. Solomon will become the sole president and chief operating officer of Goldman Sachs. He had been co-chief operating officer with Harvey M. Schwartz, who Goldman said on Monday would retire in April.",
+               "copyright":"Guerin Blask for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13SOLOMON\/merlin_135386892_e62efe98-cc4e-4037-9826-851215e31957-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1363,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David M. Solomon will become the sole president and chief operating officer of Goldman Sachs. He had been co-chief operating officer with Harvey M. Schwartz, who Goldman said on Monday would retire in April.",
+               "copyright":"Guerin Blask for The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tzwARe"
+      },
+      {
+         "section":"World",
+         "subsection":"Asia Pacific",
+         "title":"Japan Fears Being Left Behind by Trump\u2019s Talks With Kim Jong-un",
+         "abstract":"Prime Minister Shinzo Abe has cultivated close ties with President Trump, but appears sidelined on North Korea.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/world\/asia\/japan-shinzo-abe-trump-north-korea.html",
+         "byline":"By MOTOKO RICH",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:44:38-04:00",
+         "created_date":"2018-03-13T05:41:21-04:00",
+         "published_date":"2018-03-13T05:41:21-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States International Relations"
+         ],
+         "org_facet":[
+            "Institute for Policy Studies",
+            "University of Tokyo"
+         ],
+         "per_facet":[
+            "Abe, Shinzo",
+            "Kim Jong-un",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            "Japan",
+            "North Korea"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14japan-korea-1\/14japan-korea-1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Suh Hoon, South Korea\u2019s intelligence agency chief, left, and Shinzo Abe, the Japanese prime minister, in Tokyo on Tuesday. Japan, which has hewed to a hard-line posture toward North Korea, is scrambling to remain diplomatically relevant.",
+               "copyright":"Yonhap, via European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14japan-korea-1\/14japan-korea-1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Suh Hoon, South Korea\u2019s intelligence agency chief, left, and Shinzo Abe, the Japanese prime minister, in Tokyo on Tuesday. Japan, which has hewed to a hard-line posture toward North Korea, is scrambling to remain diplomatically relevant.",
+               "copyright":"Yonhap, via European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14japan-korea-1\/14japan-korea-1-articleInline.jpg",
+               "format":"Normal",
+               "height":121,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Suh Hoon, South Korea\u2019s intelligence agency chief, left, and Shinzo Abe, the Japanese prime minister, in Tokyo on Tuesday. Japan, which has hewed to a hard-line posture toward North Korea, is scrambling to remain diplomatically relevant.",
+               "copyright":"Yonhap, via European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14japan-korea-1\/14japan-korea-1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Suh Hoon, South Korea\u2019s intelligence agency chief, left, and Shinzo Abe, the Japanese prime minister, in Tokyo on Tuesday. Japan, which has hewed to a hard-line posture toward North Korea, is scrambling to remain diplomatically relevant.",
+               "copyright":"Yonhap, via European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/14\/world\/14japan-korea-1\/14japan-korea-1-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1364,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Suh Hoon, South Korea\u2019s intelligence agency chief, left, and Shinzo Abe, the Japanese prime minister, in Tokyo on Tuesday. Japan, which has hewed to a hard-line posture toward North Korea, is scrambling to remain diplomatically relevant.",
+               "copyright":"Yonhap, via European Pressphoto Agency"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tK8BPq"
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Pennsylvania\u2019s Special House Election: What to Watch For",
+         "abstract":"The race for a vacant House seat in a red district near Pittsburgh has evolved into the latest test of whether Democrats can make inroads with Trump voters.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/us\/politics\/pennsylvania-election-saccone-lamb.html",
+         "byline":"By JONATHAN MARTIN and ALEXANDER BURNS",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:17:08-04:00",
+         "created_date":"2018-03-12T17:53:30-04:00",
+         "published_date":"2018-03-12T17:53:30-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections, House of Representatives"
+         ],
+         "org_facet":[
+            "Republican Party",
+            "Democratic Party"
+         ],
+         "per_facet":[
+            "Lamb, Conor J (1984- )",
+            "Saccone, Richard (1958- )",
+            "Trump, Donald J",
+            "Biden, Joseph R Jr"
+         ],
+         "geo_facet":[
+            "Pittsburgh (Pa)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13WHATTOWATCH-promo\/13WHATTOWATCH-promo-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, left, and Rick Saccone.",
+               "copyright":"Keith Srakocic\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13WHATTOWATCH-promo\/13WHATTOWATCH-promo-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, left, and Rick Saccone.",
+               "copyright":"Keith Srakocic\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13WHATTOWATCH-promo\/13WHATTOWATCH-promo-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, left, and Rick Saccone.",
+               "copyright":"Keith Srakocic\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13WHATTOWATCH-promo\/13WHATTOWATCH-promo-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, left, and Rick Saccone.",
+               "copyright":"Keith Srakocic\/Associated Press"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13WHATTOWATCH-promo\/13WHATTOWATCH-promo-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":600,
+               "width":900,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Conor Lamb, left, and Rick Saccone.",
+               "copyright":"Keith Srakocic\/Associated Press"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tKyleq"
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"\u2018Never Again\u2019: Fighting Hate in a Changing Germany With Tours of Nazi Camps",
+         "abstract":"Ferdous is from Afghanistan, Florentina from Kosovo and Damian from Berlin. A German high school class visited Sachsenhausen, where 50,000 are believed to have died during World War II.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/11\/world\/europe\/germany-anti-semitism.html",
+         "byline":"By KATRIN BENNHOLD",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T13:19:00-04:00",
+         "created_date":"2018-03-11T15:18:35-04:00",
+         "published_date":"2018-03-11T15:18:35-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Holocaust and the Nazi Era",
+            "Anti-Semitism",
+            "Concentration Camps",
+            "Politics and Government",
+            "Jews and Judaism",
+            "Immigration and Emigration",
+            "History (Academic Subject)",
+            "Fringe Groups and Movements",
+            "Hate Crimes",
+            "Discrimination",
+            "Education (K-12)",
+            "Palestinians",
+            "Neo Nazi Groups",
+            "Muslims and Islam",
+            "Refugees and Displaced Persons"
+         ],
+         "org_facet":[
+            "Sachsenhausen Concentration Camp",
+            "Alternative for Germany"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Germany"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/world\/europe\/xxcamp1\/xxcamp1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A 10th-grade class from Berlin visiting the Sachsenhausen National Memorial in Oranienburg, Germany, on the site of a former Nazi concentration camp.",
+               "copyright":"Gordon Welters for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/world\/europe\/xxcamp1\/xxcamp1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A 10th-grade class from Berlin visiting the Sachsenhausen National Memorial in Oranienburg, Germany, on the site of a former Nazi concentration camp.",
+               "copyright":"Gordon Welters for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/world\/europe\/xxcamp1\/merlin_134470232_ccfec7e4-5da7-4570-a14f-55eb4dd3c765-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A 10th-grade class from Berlin visiting the Sachsenhausen National Memorial in Oranienburg, Germany, on the site of a former Nazi concentration camp.",
+               "copyright":"Gordon Welters for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/world\/europe\/xxcamp1\/merlin_134470232_ccfec7e4-5da7-4570-a14f-55eb4dd3c765-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A 10th-grade class from Berlin visiting the Sachsenhausen National Memorial in Oranienburg, Germany, on the site of a former Nazi concentration camp.",
+               "copyright":"Gordon Welters for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/world\/europe\/xxcamp1\/merlin_134470232_ccfec7e4-5da7-4570-a14f-55eb4dd3c765-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A 10th-grade class from Berlin visiting the Sachsenhausen National Memorial in Oranienburg, Germany, on the site of a former Nazi concentration camp.",
+               "copyright":"Gordon Welters for The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tAP3Nw"
+      },
+      {
+         "section":"Travel",
+         "subsection":"",
+         "title":"Island-Hopping on Vibrant Trinidad and Lush St. Lucia",
+         "abstract":"The first half of our 52 Places Traveler\u2019s trip around the Caribbean brings her to Trinidad and its famous Carnival, as well as a relaxing stop in St. Lucia.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/travel\/trinidad-st-lucia-carnival-caribbean-52-places.html",
+         "byline":"By JADA YUAN",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:13-04:00",
+         "created_date":"2018-03-13T05:00:13-04:00",
+         "published_date":"2018-03-13T05:00:13-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Travel and Vacations"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Trinidad and Tobago",
+            "St Lucia",
+            "Caribbean Area"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/travel\/12CARRIBEAN-alpha-promo\/12CARRIBEAN-alpha-promo-thumbStandard-v4.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jada Yuan\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/travel\/12CARRIBEAN-alpha-promo\/12CARRIBEAN-alpha-promo-thumbLarge-v4.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jada Yuan\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/travel\/12CARRIBEAN-alpha-promo\/12CARRIBEAN-alpha-promo-articleInline-v4.jpg",
+               "format":"Normal",
+               "height":135,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jada Yuan\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/travel\/12CARRIBEAN-alpha-promo\/12CARRIBEAN-alpha-promo-mediumThreeByTwo210-v4.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jada Yuan\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/travel\/12CARRIBEAN-alpha-promo\/12CARRIBEAN-alpha-promo-superJumbo-v3.jpg",
+               "format":"superJumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jada Yuan\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GnaNPG"
+      },
+      {
+         "section":"Business Day",
+         "subsection":"DealBook",
+         "title":"Larry Page\u2019s Flying Taxis, Now Exiting Stealth Mode",
+         "abstract":"New Zealand has opened its skies to self-piloted electric planes financed by one of Google\u2019s founders.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/business\/dealbook\/flying-taxis-larry-page.html",
+         "byline":"By ANDREW ROSS SORKIN",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:46:45-04:00",
+         "created_date":"2018-03-12T22:45:07-04:00",
+         "published_date":"2018-03-12T22:45:07-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Car Services and Livery Cabs",
+            "Driverless and Semiautonomous Vehicles",
+            "Flying Cars"
+         ],
+         "org_facet":[
+            "Kitty Hawk, Incorporated"
+         ],
+         "per_facet":[
+            "Page, Larry"
+         ],
+         "geo_facet":[
+            "New Zealand"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13DB-SORKIN01\/13DB-SORKIN01-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Cora, an electric air taxi that can carry two passengers, in flight in New Zealand.",
+               "copyright":"Richard Lord, via Kitty Hawk"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13DB-SORKIN01\/13DB-SORKIN01-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Cora, an electric air taxi that can carry two passengers, in flight in New Zealand.",
+               "copyright":"Richard Lord, via Kitty Hawk"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13DB-SORKIN01\/merlin_135394107_0676a0f0-9e2a-43bd-85d2-32d16ae9f4c7-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Cora, an electric air taxi that can carry two passengers, in flight in New Zealand.",
+               "copyright":"Richard Lord, via Kitty Hawk"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13DB-SORKIN01\/merlin_135394107_0676a0f0-9e2a-43bd-85d2-32d16ae9f4c7-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Cora, an electric air taxi that can carry two passengers, in flight in New Zealand.",
+               "copyright":"Richard Lord, via Kitty Hawk"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/business\/13DB-SORKIN01\/merlin_135394107_0676a0f0-9e2a-43bd-85d2-32d16ae9f4c7-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Cora, an electric air taxi that can carry two passengers, in flight in New Zealand.",
+               "copyright":"Richard Lord, via Kitty Hawk"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tHpNVY"
+      },
+      {
+         "section":"Smarter Living",
+         "subsection":"",
+         "title":"The One Thing That Protects a Laptop After It\u2019s Been Stolen",
+         "abstract":"Here\u2019s one thing you can do today so if your laptop is lost or stolen, your private, personal data doesn\u2019t fall into the wrong hands too.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/smarter-living\/how-to-encrypt-your-computers-data.html",
+         "byline":"By WHITSON GORDON",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T02:45:01-04:00",
+         "created_date":"2018-03-13T02:45:01-04:00",
+         "published_date":"2018-03-13T02:45:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Computer Security",
+            "Computers and the Internet"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/12sl-encryption\/12sl-encryption-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Felipe Trueba\/European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/12sl-encryption\/12sl-encryption-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Felipe Trueba\/European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/12sl-encryption\/merlin_134779146_cd3126d2-ead8-4f2f-9e9b-d0529d54e009-articleInline.jpg",
+               "format":"Normal",
+               "height":125,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Felipe Trueba\/European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/12sl-encryption\/12sl-encryption-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Felipe Trueba\/European Pressphoto Agency"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/us\/12sl-encryption\/merlin_134779146_cd3126d2-ead8-4f2f-9e9b-d0529d54e009-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1352,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Felipe Trueba\/European Pressphoto Agency"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmTiit"
+      },
+      {
+         "section":"Your Money",
+         "subsection":"",
+         "title":"Interest on Home Equity Loans Is Still Deductible, but With a Big Caveat",
+         "abstract":"The I.R.S. says that if the loan is used for home improvements, you can still claim the deduction. But if you\u2019re paying off credit card debt, you can\u2019t.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/09\/your-money\/home-equity-loans-deductible.html",
+         "byline":"By ANN CARRNS",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T02:50:51-04:00",
+         "created_date":"2018-03-09T13:40:06-05:00",
+         "published_date":"2018-03-09T13:40:06-05:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Home Equity Loans",
+            "Mortgages",
+            "Real Estate and Housing (Residential)",
+            "Tax Credits, Deductions and Exemptions",
+            "Personal Finances",
+            "Federal Taxes (US)"
+         ],
+         "org_facet":[
+            "Internal Revenue Service"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/10\/business\/10Adviser\/merlin_135247326_087e6439-36a4-4c0c-811f-40e5aa3c2cc8-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Minh Uong\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/10\/business\/10Adviser\/merlin_135247326_087e6439-36a4-4c0c-811f-40e5aa3c2cc8-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Minh Uong\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/10\/business\/10Adviser\/merlin_135247326_087e6439-36a4-4c0c-811f-40e5aa3c2cc8-articleInline.jpg",
+               "format":"Normal",
+               "height":186,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Minh Uong\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/10\/business\/10Adviser\/merlin_135247326_087e6439-36a4-4c0c-811f-40e5aa3c2cc8-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Minh Uong\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/10\/business\/10Adviser\/merlin_135247326_087e6439-36a4-4c0c-811f-40e5aa3c2cc8-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":2008,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Minh Uong\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2DeTiO8"
+      },
+      {
+         "section":"Smarter Living",
+         "subsection":"",
+         "title":"It\u2019s Tax Time! Here\u2019s What to Know This Year",
+         "abstract":"This year, don\u2019t wait until the last minute. Here\u2019s some help.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/11\/smarter-living\/taxes-what-to-know.html",
+         "byline":"By TIM HERRERA",
+         "item_type":"Article",
+         "updated_date":"2018-03-11T14:45:01-04:00",
+         "created_date":"2018-03-11T14:45:01-04:00",
+         "published_date":"2018-03-11T14:45:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Tax Preparers and Preparation",
+            "Federal Taxes (US)",
+            "Taxation",
+            "Tax Credits, Deductions and Exemptions",
+            "Frauds and Swindling"
+         ],
+         "org_facet":[
+            "Internal Revenue Service"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2016\/04\/15\/nytnow\/15nytnow-tax\/15nytnow-tax-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2016\/04\/15\/nytnow\/15nytnow-tax\/15nytnow-tax-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2016\/04\/15\/nytnow\/15nytnow-tax\/15nytnow-tax-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2016\/04\/15\/nytnow\/15nytnow-tax\/15nytnow-tax-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Joe Raedle\/Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2016\/04\/15\/nytnow\/15nytnow-tax\/15nytnow-tax-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Joe Raedle\/Getty Images"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GhbMko"
+      },
+      {
+         "section":"Technology",
+         "subsection":"Personal Tech",
+         "title":"How to Monitor Cellular Data Use for Apps",
+         "abstract":"To see which apps are grabbing the most data, peek into your device\u2019s settings or fire up a software meter.",
+         "url":"https:\/\/www.nytimes.com\/2018\/02\/27\/technology\/personaltech\/monitor-cellular-data.html",
+         "byline":"By J. D. BIERSDORFER",
+         "item_type":"Article",
+         "updated_date":"2018-02-27T09:44:07-05:00",
+         "created_date":"2018-02-27T09:44:10-05:00",
+         "published_date":"2018-02-27T09:44:10-05:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Smartphones",
+            "Mobile Applications",
+            "Wireless Communications"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/02\/28\/technology\/personaltech\/28techtipwebART\/28techtipwebART-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"illustration",
+               "caption":"If you do not like the data-meter tools that come with your phone\u2019s operating system, you can get an app like My Data Manager that monitors cellular usage in graphic detail.",
+               "copyright":"The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/02\/28\/technology\/personaltech\/28techtipwebART\/28techtipwebART-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"illustration",
+               "caption":"If you do not like the data-meter tools that come with your phone\u2019s operating system, you can get an app like My Data Manager that monitors cellular usage in graphic detail.",
+               "copyright":"The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/02\/28\/technology\/personaltech\/28techtipwebART\/28techtipwebART-articleInline.jpg",
+               "format":"Normal",
+               "height":165,
+               "width":190,
+               "type":"image",
+               "subtype":"illustration",
+               "caption":"If you do not like the data-meter tools that come with your phone\u2019s operating system, you can get an app like My Data Manager that monitors cellular usage in graphic detail.",
+               "copyright":"The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/02\/28\/technology\/personaltech\/28techtipwebART\/28techtipwebART-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"illustration",
+               "caption":"If you do not like the data-meter tools that come with your phone\u2019s operating system, you can get an app like My Data Manager that monitors cellular usage in graphic detail.",
+               "copyright":"The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/02\/28\/technology\/personaltech\/28techtipwebART\/28techtipwebART-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1773,
+               "width":2048,
+               "type":"image",
+               "subtype":"illustration",
+               "caption":"If you do not like the data-meter tools that come with your phone\u2019s operating system, you can get an app like My Data Manager that monitors cellular usage in graphic detail.",
+               "copyright":"The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2F6Fsm6"
+      },
+      {
+         "section":"Arts",
+         "subsection":"",
+         "title":"At Hancock Shaker Village, Concerts, a Farm-to-Table Menu and Goat Yoga",
+         "abstract":"The living history museum has stayed true to its roots while adding immersive activities that have increased attendance.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/arts\/hancock-shaker-village-new-programs.html",
+         "byline":"By CAROLYN SHAPIRO",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:13-04:00",
+         "created_date":"2018-03-13T05:00:13-04:00",
+         "published_date":"2018-03-13T05:00:13-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Museums"
+         ],
+         "org_facet":[
+            "Hancock Shaker Village"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/15\/arts\/15SHAKER\/15SHAKER-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jennifer Trainer Thompson, president of Hancock Shaker Village, in the Round Stone Barn.",
+               "copyright":"Tony Luong for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/15\/arts\/15SHAKER\/15SHAKER-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jennifer Trainer Thompson, president of Hancock Shaker Village, in the Round Stone Barn.",
+               "copyright":"Tony Luong for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/15\/arts\/15SHAKER\/merlin_134421206_08e8c4c7-f8f0-48c0-8316-7e630622e979-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jennifer Trainer Thompson, president of Hancock Shaker Village, in the Round Stone Barn.",
+               "copyright":"Tony Luong for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/15\/arts\/15SHAKER\/15SHAKER-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jennifer Trainer Thompson, president of Hancock Shaker Village, in the Round Stone Barn.",
+               "copyright":"Tony Luong for The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/15\/arts\/15SHAKER\/merlin_134421206_08e8c4c7-f8f0-48c0-8316-7e630622e979-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1367,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jennifer Trainer Thompson, president of Hancock Shaker Village, in the Round Stone Barn.",
+               "copyright":"Tony Luong for The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gm358k"
+      },
+      {
+         "section":"Books",
+         "subsection":"Book Review",
+         "title":"Super Mario",
+         "abstract":"Fans of the Nobel laureate Mario Vargas Llosa have two reasons to celebrate: a feisty new novel and a fiery, politically charged essay collection.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/books\/review\/mario-vargas-llosa-sabers-utopias-neighborhood.html",
+         "byline":"By MICHAEL GREENBERG",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:07-04:00",
+         "created_date":"2018-03-13T05:00:07-04:00",
+         "published_date":"2018-03-13T05:00:07-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Books and Literature",
+            "The Neighborhood (Book)",
+            "Sabers and Utopias: Visions of Latin America  (Book)",
+            "Politics and Government"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Vargas Llosa, Mario"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/books\/review\/18Greenberg\/18Greenberg-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Mario Vargas Llosa in 2000.",
+               "copyright":"G&eacute;rard Rondeau\/Agence VU, via Redux"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/books\/review\/18Greenberg\/18Greenberg-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Mario Vargas Llosa in 2000.",
+               "copyright":"G&eacute;rard Rondeau\/Agence VU, via Redux"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/books\/review\/18Greenberg\/merlin_135093159_98ea9533-f877-45bd-b257-2d5290b64edf-articleInline.jpg",
+               "format":"Normal",
+               "height":190,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Mario Vargas Llosa in 2000.",
+               "copyright":"G&eacute;rard Rondeau\/Agence VU, via Redux"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/books\/review\/18Greenberg\/18Greenberg-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Mario Vargas Llosa in 2000.",
+               "copyright":"G&eacute;rard Rondeau\/Agence VU, via Redux"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/books\/review\/18Greenberg\/merlin_135093159_98ea9533-f877-45bd-b257-2d5290b64edf-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":2048,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Mario Vargas Llosa in 2000.",
+               "copyright":"G&eacute;rard Rondeau\/Agence VU, via Redux"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GlQzWs"
+      },
+      {
+         "section":"Arts",
+         "subsection":"Television",
+         "title":"Stephen Colbert Asks Why Trump Is Scared of Stormy Daniels",
+         "abstract":"The former pornographic film actress was recently interviewed by \u201c60 Minutes,\u201d and Colbert was eager to offer his take on the controversy.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/arts\/television\/stephen-colbert-trump-stormy-daniels.html",
+         "byline":"By GIOVANNI RUSSONELLO",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T09:52:10-04:00",
+         "created_date":"2018-03-13T05:19:59-04:00",
+         "published_date":"2018-03-13T05:19:59-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Late Show with Stephen Colbert (TV Program)",
+            "Black Panther (Movie)",
+            "Late Night with Seth Meyers (TV Program)",
+            "60 Minutes (TV Program)",
+            "The Tonight Show (TV Program)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Colbert, Stephen",
+            "Cooper, Anderson",
+            "Fallon, Jimmy",
+            "Kimmel, Jimmy",
+            "O'Brien, Conan",
+            "Trump, Donald J",
+            "Corden, James (1978- )",
+            "Trump, Donald J Jr"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13latenight\/13latenight-thumbStandard.png",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stephen Colbert said President Trump might want to let Stephanie Clifford, a.k.a. Stormy Daniels, give back $130,000. \u201cTrump\u2019s going to need the cash for his divorce lawyer,\u201d he said.",
+               "copyright":"CBS"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13latenight\/13latenight-thumbLarge.png",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stephen Colbert said President Trump might want to let Stephanie Clifford, a.k.a. Stormy Daniels, give back $130,000. \u201cTrump\u2019s going to need the cash for his divorce lawyer,\u201d he said.",
+               "copyright":"CBS"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13latenight\/13latenight-articleInline.png",
+               "format":"Normal",
+               "height":106,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stephen Colbert said President Trump might want to let Stephanie Clifford, a.k.a. Stormy Daniels, give back $130,000. \u201cTrump\u2019s going to need the cash for his divorce lawyer,\u201d he said.",
+               "copyright":"CBS"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13latenight\/13latenight-mediumThreeByTwo210.png",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stephen Colbert said President Trump might want to let Stephanie Clifford, a.k.a. Stormy Daniels, give back $130,000. \u201cTrump\u2019s going to need the cash for his divorce lawyer,\u201d he said.",
+               "copyright":"CBS"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13latenight\/13latenight-superJumbo.png",
+               "format":"superJumbo",
+               "height":1138,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stephen Colbert said President Trump might want to let Stephanie Clifford, a.k.a. Stormy Daniels, give back $130,000. \u201cTrump\u2019s going to need the cash for his divorce lawyer,\u201d he said.",
+               "copyright":"CBS"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GkLgq8"
+      },
+      {
+         "section":"Arts",
+         "subsection":"Television",
+         "title":"Anna Deavere Smith: The First Time a White Person Wrote \u2018Love\u2019 to Me",
+         "abstract":"The playwright and actress recalls making an unexpected friendship in a Baltimore high school in the early 1960s, and feeling less invisible.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/arts\/television\/anna-deavere-smith-notes-from-the-field.html",
+         "byline":"By ANNA DEAVERE SMITH",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:01-04:00",
+         "created_date":"2018-03-13T05:00:01-04:00",
+         "published_date":"2018-03-13T05:00:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Actors and Actresses",
+            "Education (K-12)",
+            "Blacks"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Smith, Anna Deavere"
+         ],
+         "geo_facet":[
+            "Baltimore (Md)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/arts\/18FIRSTTIME-SMITH-COMBO\/11FIRSTTIME-SMITH-COMBO-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Anna Deveare Smith, a playwright and actress, stars in \u201cNotes From the Field,\u201d an HBO adaptation of one of her plays, and \u201cFor the People,\u201d an ABC series.",
+               "copyright":"Photographs by Tony Cenicola\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/arts\/18FIRSTTIME-SMITH-COMBO\/11FIRSTTIME-SMITH-COMBO-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Anna Deveare Smith, a playwright and actress, stars in \u201cNotes From the Field,\u201d an HBO adaptation of one of her plays, and \u201cFor the People,\u201d an ABC series.",
+               "copyright":"Photographs by Tony Cenicola\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/arts\/18FIRSTTIME-SMITH-COMBO\/11FIRSTTIME-SMITH-COMBO-articleInline.jpg",
+               "format":"Normal",
+               "height":82,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Anna Deveare Smith, a playwright and actress, stars in \u201cNotes From the Field,\u201d an HBO adaptation of one of her plays, and \u201cFor the People,\u201d an ABC series.",
+               "copyright":"Photographs by Tony Cenicola\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/arts\/18FIRSTTIME-SMITH-COMBO\/11FIRSTTIME-SMITH-COMBO-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Anna Deveare Smith, a playwright and actress, stars in \u201cNotes From the Field,\u201d an HBO adaptation of one of her plays, and \u201cFor the People,\u201d an ABC series.",
+               "copyright":"Photographs by Tony Cenicola\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/18\/arts\/18FIRSTTIME-SMITH-COMBO\/11FIRSTTIME-SMITH-COMBO-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":887,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Anna Deveare Smith, a playwright and actress, stars in \u201cNotes From the Field,\u201d an HBO adaptation of one of her plays, and \u201cFor the People,\u201d an ABC series.",
+               "copyright":"Photographs by Tony Cenicola\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gmhdyq"
+      },
+      {
+         "section":"Arts",
+         "subsection":"Dance",
+         "title":"Review: Paul Taylor Classics Outshine New Dances (His and Others\u2019)",
+         "abstract":"\u201cConcertiana,\u201d Mr. Taylor\u2019s 147th work, received a premiere along with \u201cThe Beauty in Gray\u201d by Bryan Arias and \u201cHalf Life\u201d by Doug Varone.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/11\/arts\/dance\/review-paul-taylor-american-modern-dance.html",
+         "byline":"By BRIAN SEIBERT",
+         "item_type":"Article",
+         "updated_date":"2018-03-11T16:16:03-04:00",
+         "created_date":"2018-03-11T16:16:03-04:00",
+         "published_date":"2018-03-11T16:16:03-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Dancing",
+            "Concertiana (Dance)",
+            "The Beauty in Gray (Dance)",
+            "Half Life (Dance)"
+         ],
+         "org_facet":[
+            "Taylor, Paul, Dance Co",
+            "Koch, David H, Theater"
+         ],
+         "per_facet":[
+            "Taylor, Paul",
+            "Arias, Bryan",
+            "Varone, Doug"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13TAYLORPREMIERES1\/12TAYLORPREMIERES1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Alex Clayton performing in the premiere of &ldquo;Concertiana&rdquo; with fellow members of Paul Taylor American Modern Dance.",
+               "copyright":"Andrea Mohin\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13TAYLORPREMIERES1\/12TAYLORPREMIERES1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Alex Clayton performing in the premiere of &ldquo;Concertiana&rdquo; with fellow members of Paul Taylor American Modern Dance.",
+               "copyright":"Andrea Mohin\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13TAYLORPREMIERES1\/merlin_135183717_553b1e6f-0b7e-40d4-a96b-e65d67417b7e-articleInline.jpg",
+               "format":"Normal",
+               "height":125,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Alex Clayton performing in the premiere of &ldquo;Concertiana&rdquo; with fellow members of Paul Taylor American Modern Dance.",
+               "copyright":"Andrea Mohin\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13TAYLORPREMIERES1\/12TAYLORPREMIERES1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Alex Clayton performing in the premiere of &ldquo;Concertiana&rdquo; with fellow members of Paul Taylor American Modern Dance.",
+               "copyright":"Andrea Mohin\/The New York Times"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/arts\/13TAYLORPREMIERES1\/merlin_135183717_553b1e6f-0b7e-40d4-a96b-e65d67417b7e-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1349,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Alex Clayton performing in the premiere of &ldquo;Concertiana&rdquo; with fellow members of Paul Taylor American Modern Dance.",
+               "copyright":"Andrea Mohin\/The New York Times"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GhmHuo"
+      },
+      {
+         "section":"Climate",
+         "subsection":"",
+         "title":"Near Noisy Oil Fields, Lovesick Birds Change Their Tunes",
+         "abstract":"\u201cHey, hey, sexy, hey, I\u2019m Bob, a Savannah sparrow.\u201d Birds near oil fields tweak their mating calls in complex ways that researchers are only starting to grasp.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/climate\/oil-field-birds-change-songs.html",
+         "byline":"By HIROKO TABUCHI",
+         "item_type":"Article",
+         "updated_date":"2018-03-13T05:00:10-04:00",
+         "created_date":"2018-03-13T05:00:10-04:00",
+         "published_date":"2018-03-13T05:00:10-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Animal Behavior",
+            "Birds",
+            "Reproduction (Biological)",
+            "Oil (Petroleum) and Gasoline",
+            "Biology and Biochemistry",
+            "Noise"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Alberta (Canada)"
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/06\/climate\/cli-birdsong-pic\/cli-birdsong-pic-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A male Savannah sparrow in prairie sagebrush near Brooks, Alberta.",
+               "copyright":"Paulson Des Brisay"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/06\/climate\/cli-birdsong-pic\/cli-birdsong-pic-thumbLarge-v2.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A male Savannah sparrow in prairie sagebrush near Brooks, Alberta.",
+               "copyright":"Paulson Des Brisay"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/06\/climate\/cli-birdsong-pic\/cli-birdsong-pic-articleInline.jpg",
+               "format":"Normal",
+               "height":102,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A male Savannah sparrow in prairie sagebrush near Brooks, Alberta.",
+               "copyright":"Paulson Des Brisay"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/06\/climate\/cli-birdsong-pic\/cli-birdsong-pic-mediumThreeByTwo210-v2.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A male Savannah sparrow in prairie sagebrush near Brooks, Alberta.",
+               "copyright":"Paulson Des Brisay"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/06\/climate\/cli-birdsong-pic\/cli-birdsong-pic-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1094,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A male Savannah sparrow in prairie sagebrush near Brooks, Alberta.",
+               "copyright":"Paulson Des Brisay"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2GmKglA"
+      },
+      {
+         "section":"Health",
+         "subsection":"",
+         "title":"Congress Quashed Research Into Gun Violence. Since Then, 600,000 People Have Been Shot.",
+         "abstract":"Why do so many Americans kill one another, and how can the violence be stopped? The C.D.C. quit studying these and other questions over 20 years ago.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/health\/gun-violence-research-cdc.html",
+         "byline":"By SHEILA KAPLAN",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T11:05:18-04:00",
+         "created_date":"2018-03-12T11:05:18-04:00",
+         "published_date":"2018-03-12T11:05:18-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Gun Control",
+            "United States Politics and Government",
+            "Research",
+            "Suicides and Suicide Attempts",
+            "Murders, Attempted Murders and Homicides"
+         ],
+         "org_facet":[
+            "Bureau of Alcohol, Tobacco and Firearms",
+            "Centers for Disease Control and Prevention"
+         ],
+         "per_facet":[
+            "Frieden, Thomas R"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13SCI-GUNS1\/13SCI-GUNS1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Federal officials and lawmakers debate whether to relax restrictions, backed by the National Rifle Association, on governmental research into gun violence.",
+               "copyright":"Cengiz Yar Jr.\/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13SCI-GUNS1\/13SCI-GUNS1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Federal officials and lawmakers debate whether to relax restrictions, backed by the National Rifle Association, on governmental research into gun violence.",
+               "copyright":"Cengiz Yar Jr.\/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13SCI-GUNS1\/13SCI-GUNS1-articleInline.jpg",
+               "format":"Normal",
+               "height":131,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Federal officials and lawmakers debate whether to relax restrictions, backed by the National Rifle Association, on governmental research into gun violence.",
+               "copyright":"Cengiz Yar Jr.\/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13SCI-GUNS1\/13SCI-GUNS1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Federal officials and lawmakers debate whether to relax restrictions, backed by the National Rifle Association, on governmental research into gun violence.",
+               "copyright":"Cengiz Yar Jr.\/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13SCI-GUNS1\/13SCI-GUNS1-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":1364,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Federal officials and lawmakers debate whether to relax restrictions, backed by the National Rifle Association, on governmental research into gun violence.",
+               "copyright":"Cengiz Yar Jr.\/Agence France-Presse &mdash; Getty Images"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2tIxP0u"
+      },
+      {
+         "section":"Science",
+         "subsection":"",
+         "title":"A Newly Discovered Difference Between Alligators and Crocodiles",
+         "abstract":"Many differences between the two reptiles center on their heads and mouths, but researchers in Japan have found features in their limbs that set them apart.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/science\/alligators-crocodiles-differences.html",
+         "byline":"By NICHOLAS ST. FLEUR",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T14:39:17-04:00",
+         "created_date":"2018-03-12T14:39:17-04:00",
+         "published_date":"2018-03-12T14:39:17-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Alligators",
+            "Crocodiles",
+            "Reptiles",
+            "Paleontology",
+            "Bones"
+         ],
+         "org_facet":[
+            "Royal Society Open Science (Journal)"
+         ],
+         "per_facet":[
+            "Iijima, Masaya"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13TB-CROCS1\/13TB-CROCS1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The most obvious way to tell a crocodile, left, from an alligator, is from their snouts: Those of alligators are wider and shorter, and crocodiles\u2019 top and bottom teeth are interlaced and visible when their mouths are closed.",
+               "copyright":"Left, wickedmrb; Right, Tim Donovan\/Florida Fish and Wildlife Service"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13TB-CROCS1\/13TB-CROCS1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The most obvious way to tell a crocodile, left, from an alligator, is from their snouts: Those of alligators are wider and shorter, and crocodiles\u2019 top and bottom teeth are interlaced and visible when their mouths are closed.",
+               "copyright":"Left, wickedmrb; Right, Tim Donovan\/Florida Fish and Wildlife Service"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13TB-CROCS1\/13TB-CROCS1-articleInline.jpg",
+               "format":"Normal",
+               "height":122,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The most obvious way to tell a crocodile, left, from an alligator, is from their snouts: Those of alligators are wider and shorter, and crocodiles\u2019 top and bottom teeth are interlaced and visible when their mouths are closed.",
+               "copyright":"Left, wickedmrb; Right, Tim Donovan\/Florida Fish and Wildlife Service"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13TB-CROCS1\/13TB-CROCS1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The most obvious way to tell a crocodile, left, from an alligator, is from their snouts: Those of alligators are wider and shorter, and crocodiles\u2019 top and bottom teeth are interlaced and visible when their mouths are closed.",
+               "copyright":"Left, wickedmrb; Right, Tim Donovan\/Florida Fish and Wildlife Service"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/science\/13TB-CROCS1\/13TB-CROCS1-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":683,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The most obvious way to tell a crocodile, left, from an alligator, is from their snouts: Those of alligators are wider and shorter, and crocodiles\u2019 top and bottom teeth are interlaced and visible when their mouths are closed.",
+               "copyright":"Left, wickedmrb; Right, Tim Donovan\/Florida Fish and Wildlife Service"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gi01Kl"
+      },
+      {
+         "section":"Well",
+         "subsection":"Family",
+         "title":"Teenagers Are Sexting \u2014 Now What?",
+         "abstract":"Experts say parents should acknowledge sexting as an aspect of teen relationships and include it in conversations about safety and respect.",
+         "url":"https:\/\/www.nytimes.com\/2018\/03\/12\/well\/family\/teens-are-sexting-now-what.html",
+         "byline":"By PERRI KLASS, M.D.",
+         "item_type":"Article",
+         "updated_date":"2018-03-12T06:00:01-04:00",
+         "created_date":"2018-03-12T06:00:01-04:00",
+         "published_date":"2018-03-12T06:00:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Sexting",
+            "Text Messaging",
+            "Children and Childhood",
+            "Dating and Relationships",
+            "Parenting",
+            "Sex"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/well\/family\/well-family-sexting\/well-family-sexting-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"iStock"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/well\/family\/well-family-sexting\/well-family-sexting-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"iStock"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/well\/family\/well-family-sexting\/well-family-sexting-articleInline.jpg",
+               "format":"Normal",
+               "height":141,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"iStock"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/well\/family\/well-family-sexting\/well-family-sexting-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"iStock"
+            },
+            {
+               "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/12\/well\/family\/well-family-sexting\/well-family-sexting-superJumbo.jpg",
+               "format":"superJumbo",
+               "height":906,
+               "width":1220,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"iStock"
+            }
+         ],
+         "short_url":"https:\/\/nyti.ms\/2Gi6oxk"
+      }
+   ]
+}

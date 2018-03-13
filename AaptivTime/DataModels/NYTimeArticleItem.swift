@@ -8,7 +8,16 @@
 
 import Foundation
 
-struct NYTimeArticleItem {
+struct NYTimeArticleResults: Codable {
+    let results: [NYTimeArticleItem]?
+}
+
+struct NYTimeArticleItemMedia: Codable {
+    var url: String?
+    var format: String?
+}
+
+struct NYTimeArticleItem: Codable {
 
     var url: String?
     var section: String?
@@ -19,34 +28,42 @@ struct NYTimeArticleItem {
     var createdDate: Date?
     var publishedDate: Date?
     var byLine: String?
-
     var thumbnailUrl: String?
     var saved: Bool = false
 
-    init(withJSON json: [String: Any], dateFormatter formatter: DateFormatter) {
+    enum CodingKeys: String, CodingKey {
+        case url
+        case section
+        case subsection
+        case title
+        case abstract
+        case byLine
+        case updatedDate = "updated_date"
+        case createdDate = "created_date"
+        case publishedDate = "published_date"
+        case thumbnailUrl
+    }
 
-        url = json["url"] as? String
-        section = json["section"] as? String
-        subsection = json["subsection"] as? String
-        title = json["title"] as? String
-        abstract = json["abstract"] as? String
-        byLine = json["byline"] as? String
-        if let updateDateString = json["updated_date"] as? String {
-            updatedDate = formatter.date(from: updateDateString)
-        }
-        if let createdDateString = json["created_date"] as? String {
-            createdDate = formatter.date(from: createdDateString)
-        }
-        if let publishedString = json["published_date"] as? String {
-            publishedDate = formatter.date(from: publishedString)
-        }
-        if let multimedia = json["multimedia"] as? [[String: Any]] {
-            // due to time constraint, only considering `thumbLarge` for now
-            // best practice should be adding each media item separately in an array
-            // and storing them into database as separate entity
-            for media in multimedia where media["format"] as? String == "thumbLarge"  {
-                thumbnailUrl = media["url"] as? String
-            }
+    // nested fields
+    enum MultimediaKeys: String, CodingKey {
+        case multimedia
+    }
+
+    init(from decoder: Decoder) throws {
+        let multimedia = try decoder.container(keyedBy: MultimediaKeys.self)
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        url = try values.decode(String.self, forKey: .url)
+        section = try values.decodeIfPresent(String.self, forKey: .section)
+        subsection = try values.decodeIfPresent(String.self, forKey: .subsection)
+        title = try values.decodeIfPresent(String.self, forKey: .title)
+        abstract = try values.decodeIfPresent(String.self, forKey: .abstract)
+        byLine = try values.decodeIfPresent(String.self, forKey: .byLine)
+        updatedDate = try values.decodeIfPresent(Date.self, forKey: .updatedDate)
+        createdDate = try values.decodeIfPresent(Date.self, forKey: .createdDate)
+        publishedDate = try values.decodeIfPresent(Date.self, forKey: .publishedDate)
+        let medias = try multimedia.decode([NYTimeArticleItemMedia].self, forKey: .multimedia)
+        for media in medias where media.format == "thumbLarge"  {
+            thumbnailUrl = media.url
         }
     }
 

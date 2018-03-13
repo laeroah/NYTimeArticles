@@ -8,7 +8,12 @@
 
 import Foundation
 
-protocol ATHttpClientable {
+enum HttpRequestResult {
+    case success(Data?)
+    case failure(Error?)
+}
 
-    func startGetRequest(withURL url: String, complete: @escaping (_ value: Any?, _ error: Error?) -> ())
+protocol ATHttpClientable {
+    func startGetRequest(withURL url: String,
+                         complete: @escaping (_ result: HttpRequestResult) -> Void)
 }
