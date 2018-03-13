@@ -7,10 +7,6 @@ target 'AaptivTime' do
 
   # Pods for AaptivTime
 
-  # Networking
-  pod 'Alamofire', '~> 4.5'
-  pod 'AlamofireImage', '~> 3.3'
-
   # Logging
   pod 'SwiftyBeaver', '~> 1.5.1'
 

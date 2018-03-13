@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Alamofire
 
 enum APIServiceError: Error {
     case requestFailed(reason: String, code: Int)

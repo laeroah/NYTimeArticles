@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import AlamofireImage
 
 class ATArticleListItemCell: UITableViewCell {
 
@@ -22,7 +21,7 @@ class ATArticleListItemCell: UITableViewCell {
             articleThumbnail.image = nil
             if let thumbnailUrlString = viewModel?.articleItem.thumbnailUrl,
                 let thumbnailUrl = URL(string: thumbnailUrlString){
-                articleThumbnail.af_setImage(withURL: thumbnailUrl)
+                articleThumbnail.setImageURL(thumbnailUrl)
             }
             self.articleTitle.text = viewModel?.articleItem.title
             self.articleAbstract.text = viewModel?.articleItem.abstract

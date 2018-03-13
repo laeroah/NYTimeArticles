@@ -18,6 +18,7 @@
 		AF13FDAA202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */; };
 		AF13FDAC202DF66C0035AE6F /* NYTimeArticleItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */; };
 		AF23727220581F350073D913 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = AF23727120581F350073D913 /* data.json */; };
+		AF237274205832A60073D913 /* UIImageViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF237273205832A60073D913 /* UIImageViewExtension.swift */; };
 		AF449F77202F65C4006ACA42 /* ATAppFlowCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */; };
 		AF449F7A202F73BC006ACA42 /* ATArticlesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */; };
 		AF449F7B202F73BC006ACA42 /* ATArticlesListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */; };
@@ -78,6 +79,7 @@
 		AF13FDA8202DF6170035AE6F /* ArticleItem+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		AF13FDAB202DF66C0035AE6F /* NYTimeArticleItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYTimeArticleItem.swift; sourceTree = "<group>"; };
 		AF23727120581F350073D913 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		AF237273205832A60073D913 /* UIImageViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageViewExtension.swift; sourceTree = "<group>"; };
 		AF449F76202F65C4006ACA42 /* ATAppFlowCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATAppFlowCoordinator.swift; sourceTree = "<group>"; };
 		AF449F78202F73BC006ACA42 /* ATArticlesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATArticlesListViewController.swift; sourceTree = "<group>"; };
 		AF449F79202F73BC006ACA42 /* ATArticlesListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ATArticlesListViewController.xib; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				AF449F8A202F9B9C006ACA42 /* DateExtension.swift */,
 				AF449F8C202FAD6E006ACA42 /* ColorExtension.swift */,
 				AF449F8E202FAED6006ACA42 /* FontExtension.swift */,
+				AF237273205832A60073D913 /* UIImageViewExtension.swift */,
 			);
 			path = "Utilities & Extensions";
 			sourceTree = "<group>";
@@ -626,8 +629,6 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-AaptivTime/Pods-AaptivTime-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
-				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
 				"${BUILT_PRODUCTS_DIR}/MarqueeLabel/MarqueeLabel.framework",
 				"${BUILT_PRODUCTS_DIR}/NotificationBannerSwift/NotificationBannerSwift.framework",
 				"${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework",
@@ -637,8 +638,6 @@
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MarqueeLabel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NotificationBannerSwift.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PKHUD.framework",
@@ -682,6 +681,7 @@
 				AF449F83202F7AC2006ACA42 /* ATGlobal.swift in Sources */,
 				AF449F87202F7FBB006ACA42 /* ATSectionScrollView.swift in Sources */,
 				AF449F89202F920E006ACA42 /* ATArticleItemViewModel.swift in Sources */,
+				AF237274205832A60073D913 /* UIImageViewExtension.swift in Sources */,
 				AF449F8F202FAED6006ACA42 /* FontExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
